@@ -1,0 +1,18 @@
+---
+layout: post
+title: Basic shell info
+date: 2023-10-14 02:32:31 +0530
+categories: tutorial
+tags:
+  - bash
+---
+
+
+Which shell am I using:
+```bash
+echo $0
+```
+
+Shell profile:
+* `zsh`: `~/.zshrc`
+* `bash`: `~/.bash_profile`
