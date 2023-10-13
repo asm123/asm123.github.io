@@ -1,3 +1,7 @@
+baseurl: "/"
+url: "https://asm123.github.io"
+
+
 theme: jekyll-theme-minimal
 title: asm's homepage
 description: Digital Garden
