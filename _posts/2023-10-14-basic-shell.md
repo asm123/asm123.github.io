@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Basic shell info
-date: 2023-10-14 02:32:31 +0530
+date: 2023-10-14
 categories: tutorial
 tags:
   - bash
