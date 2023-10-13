@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creating a website with GitHub Pages"
-date:   2023-10-14
+date: 2023-10-14 02:32:31 +0530
 categories: tutorial
 ---
 
