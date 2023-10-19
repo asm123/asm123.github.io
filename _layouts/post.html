@@ -15,7 +15,17 @@ layout: default
                 Last updated: {{ page.date | date: date_format }}
                 {%- endif -%}
             </time>
+        <p class="post-meta">
+            Tags: <span>
+                {% for tag in page.tags %}
+                  {% capture tag_name %}{{ tag }}{% endcapture %}
+                  <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+                {% endfor %}
+              </span>
+        </p>
     </header>
+
+    
 
     <div id="flex">
         <div class="post-content e-content" itemprop="articleBody">
@@ -27,6 +37,7 @@ layout: default
                 Originally published on: {{ page.date | date: date_format }}
             </time>
         </p>
+        
     </div>
 
 
