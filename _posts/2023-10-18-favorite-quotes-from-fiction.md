@@ -2,7 +2,7 @@
 layout: post
 title: Favorite quotes from fiction
 date: 2023-10-18
-categories: general
+tags: general
 ---
 
 > “We always think there's enough time to do things with other people. Time to say things to them. And then something happens and then we stand there holding on to words like 'if'.”

@@ -2,9 +2,7 @@
 layout: post
 title: Basic shell info
 date: 2023-10-14
-categories: tutorial
-tags:
-  - bash
+tags: bash tutorial dev
 ---
 
 

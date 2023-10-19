@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating a website with GitHub Pages"
 date: 2023-10-14
-categories: tutorial
+tags: tutorial dev github-pages
 ---
 
 A tutorial for setting up your own website using GitHub Pages.
@@ -74,4 +74,4 @@ Follow the steps from [GitHub documentation](https://docs.github.com/en/pages/ge
 
 ## Create demo site
 
-While the [official documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll) for creating a demo site is great, I found [this article](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#setting-up-jekyll-) more helpful.
+While the [official documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll) for creating a demo site is great, I found [this article](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) more helpful.
