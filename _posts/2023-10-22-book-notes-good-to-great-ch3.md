@@ -2,7 +2,7 @@
 layout: post
 title: Book notes - Good to Great - Jim Collins - Chapter 3
 date: 2023-10-21
-tags: book-notes business
+tags: book-notes business good-to-great non-fiction
 ---
 
 * Book: [Good to Great: Why Some Companies Make the Leap... and Others Don't](https://www.goodreads.com/en/book/show/76865)
