@@ -20,7 +20,6 @@ last_modified_at: 2023-10-20
 
 ---
 <br>
-
 “It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.”
 
 ― Sir Arthur Conan Doyle, [Sherlock Holmes: A Scandal in Bohemia](https://www.goodreads.com/book/show/1848444.A_Scandal_in_Bohemia)

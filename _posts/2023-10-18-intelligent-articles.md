@@ -2,7 +2,7 @@
 layout: post
 title: Intelligent articles
 date: 2023-10-18
-tags: general intelligent-articles
+tags: general intelligent-articles thinking
 ---
 
 ## [Farnam Street](https://fs.blog/)
