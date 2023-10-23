@@ -49,3 +49,28 @@ layout: default
 
     <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+<p>
+{% assign all_tags = '' | split: ',' %}
+
+ {% for post in site.posts %}
+    {% for tags in post.tags %}
+        {% for tag in tags %}
+            {% assign all_tags = all_tags | push: tag %}
+        {% endfor %}
+    {% endfor %}
+{% endfor %}
+
+{% assign all_tags = all_tags | sort %}
+{% assign all_tags = all_tags | uniq %}
+
+All tags:
+<ul class="tag-list">
+    {% for tag in all_tags %}
+        <a href="/tags/{{ tag }}" rel="category tag">
+            <code class="highligher-rouge"><nobr>{{ tag }}</nobr></code>&nbsp;
+        </a>  | 
+    {% endfor %}
+</ul>
+
+</p>
