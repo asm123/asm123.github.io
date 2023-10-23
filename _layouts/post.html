@@ -19,7 +19,7 @@ layout: default
             Tags: <span>
                 {% for tag in page.tags %}
                   {% capture tag_name %}{{ tag }}{% endcapture %}
-                  <a href="/tags/{{ tag_name }}" rel="category tag"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+                  <a href="/tags/{{ tag_name }}" rel="category tag"><code class="highligher-rouge"><nobr>#{{ tag_name }}</nobr></code>&nbsp;</a>
                 {% endfor %}
               </span>
         </p>
@@ -68,7 +68,7 @@ All tags:
 <ul class="tag-list">
     {% for tag in all_tags %}
         <a href="/tags/{{ tag }}" rel="category tag">
-            <code class="highligher-rouge"><nobr>{{ tag }}</nobr></code>&nbsp;
+            <code class="highligher-rouge"><nobr>#{{ tag }}</nobr></code>&nbsp;
         </a>  | 
     {% endfor %}
 </ul>
