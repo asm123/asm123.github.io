@@ -3,18 +3,21 @@ layout: default
 ---
 
 <div class="snippets">
-    <h2 class="snippets-heading"> 
-        <code class="highligher-rouge"><nobr>#{{ page.tag-name }}</nobr></code>&nbsp;
+    <h2 class="snippets-heading">
+        <code class="highligher-rouge" style="font-weight: bold;"><nobr>#{{ page.tag-name }}</nobr></code>&nbsp;
     </h2>
-    <ul>
+
+    <table>
         {% for post in site.posts %}
             {% if post.tags contains page.tag-name %}
-                <li>
-                    <a href="{{ post.url }}">{{ post.title }}</a>
-                    🌱
-                    <small style="color: grey;">{{ post.date | date_to_string }}</small>
-                </li>
+                <tr>
+                    <td>
+                        📝 <a href="{{ post.url }}">{{ post.title }}</a>
+                        🌱
+                        <small style="color: grey;"> {{ post.date | date_to_string }}</small>
+                    </td>
+                <tr>
             {% endif %}
         {% endfor %}
-    </ul>
+    </table>
 </div>

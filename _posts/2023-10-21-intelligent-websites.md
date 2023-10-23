@@ -2,7 +2,7 @@
 layout: post
 title: Intelligent websites
 date: 2023-10-21
-tags: general intelligent-articles thinking
+tags: general thinking link-collection
 ---
 
 A collection of websites to follow to improve thinking, reasoning and decision making:
