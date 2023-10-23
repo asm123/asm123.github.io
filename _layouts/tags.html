@@ -11,7 +11,7 @@ layout: default
             {% if post.tags contains page.tag-name %}
                 <li>
                     <a href="{{ post.url }}">{{ post.title }}</a>
-                    |
+                    🌱
                     <small style="color: grey;">{{ post.date | date_to_string }}</small>
                 </li>
             {% endif %}
