@@ -7,9 +7,6 @@ tags: book-notes business non-fiction
 
 * Book: [Good to Great: Why Some Companies Make the Leap... and Others Don't](https://www.goodreads.com/en/book/show/76865)
 * Author: Jim Collins
-
-* Book: [Good to Great: Why Some Companies Make the Leap... and Others Don't](https://www.goodreads.com/en/book/show/76865)
-* Author: Jim Collins
 * [Book summary](/good-to-great)
 
 ## Chapter 5 - The Hedgehog Concept (Simplicty within the Three Circles)
