@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Resources for developing tech leadership
+title: Articles on Tech Leadership
 date: 2023-10-26
-tags: tech leadership
+tags: tech leadership link-collection
 ---
 
 ## Visibility
