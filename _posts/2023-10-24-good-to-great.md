@@ -19,8 +19,12 @@ last_modified_at: 2023-10-25
 
 ## Chapter Notes
 
+* Chapter 1 - WIP
+* Chapter 2 - WIP
 * [Chapter 3](/2023/10/21/good-to-great-ch3)
 * [Chapter 4](/2023/10/22/good-to-great-ch4)
 * [Chapter 5](/2023/10/22/good-to-great-ch5)
 * [Chapter 6](/2023/10/24/good-to-great-ch6)
 * [Chapter 7](/2023/10/22/good-to-great-ch7)
+* [Chapter 8](/2023/10/26/good-to-great-ch8)
+* [Chapter 9](/2023/10/26/good-to-great-ch9)
