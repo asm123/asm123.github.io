@@ -4,6 +4,11 @@ title: Bookshelf
 permalink: /bookshelf
 ---
 
+## Books I am currently reading
+
+* [Gaban](https://www.goodreads.com/book/show/11692391-gaban) - Munshi Premchand
+
+
 ## Books I read in 2023
 
 * **Psychology**
@@ -27,8 +32,6 @@ permalink: /bookshelf
 * **Programming**
   * [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) - Andy Hunt
 
+* **Leadership**
+  * [Good to Great: Why Some Companies Make the Leap... and Others Don't](https://www.goodreads.com/book/show/76865.Good_to_Great) - Jim Collins - [notes](/good-to-great)
 
-## Books I am currently reading
-
-* [Gaban](https://www.goodreads.com/book/show/11692391-gaban) - Munshi Premchand
-* [Good to Great: Why Some Companies Make the Leap... and Others Don't](https://www.goodreads.com/book/show/76865.Good_to_Great) - Jim Collins - [notes](/good-to-great)

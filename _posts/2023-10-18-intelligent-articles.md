@@ -3,6 +3,7 @@ layout: post
 title: Intelligent articles
 date: 2023-10-18
 tags: general thinking
+last_modified_at: 2023-10-28
 ---
 
 ## [Farnam Street](https://fs.blog/)
@@ -16,3 +17,10 @@ tags: general thinking
     > We incorrectly think that differences are more valuable than similarities.
     > 
     > After all, anyone can see what’s the same but it takes true insight to see what’s different, right? We’re all so busy trying to find differences that we forget to pay attention to what is the same.
+
+* [The Feynman Learning Technique](https://fs.blog/feynman-learning-technique/)
+
+    > Step 1: Pretend to teach a child
+    > Step 2: Identify gaps in your explanation
+    > Step 3: Step 3. Organize and simplify
+    > Step 4: Transmit (optional)
