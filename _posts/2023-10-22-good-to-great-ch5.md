@@ -9,7 +9,7 @@ tags: book-notes business non-fiction
 * Author: Jim Collins
 * [Book summary](/good-to-great)
 
-## Chapter 5 - The Hedgehog Concept (Simplicty within the Three Circles)
+## Chapter 5 - The Hedgehog Concept (Simplicity within the Three Circles)
 
 - Hedgehog conept: Understanding of what you can and cannot be the best at.
   - Know one big thing and stick to it.
