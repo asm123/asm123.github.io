@@ -2,8 +2,8 @@
 layout: post
 title: Intelligent articles
 date: 2023-10-18
-tags: general thinking
-last_modified_at: 2023-10-28
+tags: general thinking link-collection
+last_modified_at: 2023-10-29
 ---
 
 ## [Farnam Street](https://fs.blog/)
@@ -21,6 +21,9 @@ last_modified_at: 2023-10-28
 * [The Feynman Learning Technique](https://fs.blog/feynman-learning-technique/)
 
     > Step 1: Pretend to teach a child
+    >
     > Step 2: Identify gaps in your explanation
-    > Step 3: Step 3. Organize and simplify
+    >
+    > Step 3: Organize and simplify
+    >
     > Step 4: Transmit (optional)
