@@ -4,12 +4,12 @@ title: Bookshelf
 permalink: /bookshelf
 ---
 
-## Books I am currently reading
+### Currently reading
 
 * [Gaban](https://www.goodreads.com/book/show/11692391-gaban) - Munshi Premchand
 
 
-## Books I read in 2023
+### Read in 2023
 
 * **Psychology**
     * [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets](https://www.goodreads.com/review/show/366460890) - Nassim Nicholas Taleb

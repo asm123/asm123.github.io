@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div>
+    <h2>
+        <code class="highligher-rouge" style="font-weight: bold;"><nobr>#micro</nobr></code>&nbsp;
+    </h2>
+
+    {% for post in site.posts %}
+    {% if post.tags contains "micro" %}
+    <table class="feed">
+        <tr>
+            <td style="width: 20%; vertical-align: top;">
+                <span>🍃</span>
+                <small style="color: grey;"> {{ post.date | date_to_string }}</small>
+            </td>
+            <td>
+                {{ post.content }}
+            </td>
+        </tr>
+    </table>
+    {% endif %}
+    {% endfor %}
+</div>

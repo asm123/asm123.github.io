@@ -1,0 +1,20 @@
+---
+--- 
+
+@import "minima";
+
+.feed {
+    border-collapse: collapse;
+    border-radius: 40px;
+    border-style: hidden; /* hide standard table (collapsed) border */
+    box-shadow: 0 0 0 1px gold; /* this draws the table border  */ 
+}
+
+blockquote {
+    color: #828282;
+    border-left: 4px solid #e8e8e8;
+    padding-left: 15px;
+    font-size: 18px;
+    letter-spacing: -1px;
+    font-style: normal;
+}
