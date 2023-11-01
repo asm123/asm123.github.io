@@ -6,8 +6,12 @@ permalink: /bookshelf
 
 ### Currently reading
 
-* [Gaban](https://www.goodreads.com/book/show/11692391-gaban) - Munshi Premchand
+* **Fiction**
+  * [Gaban](https://www.goodreads.com/book/show/11692391-gaban) - Munshi Premchand
+  * [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one) - Ernest Cline
 
+* **Technical**
+  * [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) - Martin Kleppmann
 
 ### Read in 2023
 
