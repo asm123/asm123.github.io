@@ -2,7 +2,8 @@
 layout: post
 title: Some digital gardens for inspiration
 date: 2023-10-28
-tags: general link-collection
+tags: link-collection
+status: budding
 ---
 
 * [Chuck Grimmett](https://cagrimmett.com/)

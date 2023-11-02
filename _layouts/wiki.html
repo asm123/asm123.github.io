@@ -53,7 +53,12 @@ layout: default
 
     <tr>
         <td>
-            🪴 <a href="{{ post.url }}">{{ post.title }}</a>
+            {% if post.status == "budding" %}
+            🌿
+            {% else %}
+            🪴
+            {% endif %}
+            <a href="{{ post.url }}">{{ post.title }}</a>
             🌱
             <small style="color: grey;"> {{ post.date | date_to_string }}
                 {% if post.last_modified_at %}

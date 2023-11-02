@@ -3,6 +3,7 @@ layout: post
 title: Articles on Tech Leadership
 date: 2023-10-26
 tags: tech leadership link-collection
+status: budding
 ---
 
 ## Visibility
