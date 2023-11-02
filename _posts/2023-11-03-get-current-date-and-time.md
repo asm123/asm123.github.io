@@ -1,0 +1,61 @@
+---
+layout: post
+date: 2023-11-03
+title: Get current date and time in bash
+tags: dev programming bash
+last_modified_at:
+---
+
+* Get current date:
+```bash
+date
+```
+Output:
+```
+Fri Nov  3 00:30:05 IST 2023
+```
+
+* Get only date part:
+```bash
+date -I
+```
+Output:
+```
+2023-11-03
+```
+
+* Get current hour:
+```bash
+date +%H
+```
+Output:
+```
+00
+```
+
+* Get current minute:
+```bash
+date +%M
+```
+Output:
+```
+30
+```
+
+* Get current second:
+```bash
+date +%S
+```
+Output:
+```
+05
+```
+
+* Get current time in Unix seconds
+```bash
+date +%s
+```
+Output:
+```
+1698951605
+```
