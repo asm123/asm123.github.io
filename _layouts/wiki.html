@@ -53,10 +53,10 @@ layout: default
 
     <tr>
         <td>
-            {% if post.status == "budding" %}
-            🌿
-            {% else %}
+            {% if post.status == "evergreen" %}
             🪴
+            {% else %}
+            🌿
             {% endif %}
             <a href="{{ post.url }}">{{ post.title }}</a>
             🌱
