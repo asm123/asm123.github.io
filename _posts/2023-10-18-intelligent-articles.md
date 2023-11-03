@@ -3,7 +3,7 @@ layout: post
 title: Intelligent articles
 date: 2023-10-18
 tags: thinking link-collection
-last_modified_at: 2023-10-29
+last_updated: 2023-10-29
 status: budding
 ---
 
