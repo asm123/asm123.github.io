@@ -8,10 +8,13 @@ permalink: /bookshelf
 
 * **Fiction**
   * [Gaban](https://www.goodreads.com/book/show/11692391-gaban) - Munshi Premchand
-  * [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one) - Ernest Cline
+  
 
 * **Technical**
   * [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) - Martin Kleppmann
+  
+* **Leadership**
+  * [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) - Tanya Reilly - [notes](/staff-engineers-path)
 
 ### Read in 2023
 
@@ -24,6 +27,7 @@ permalink: /bookshelf
   * [The Midnight Library](https://www.goodreads.com/book/show/52578297-the-midnight-library) - Matt Haig
   * [Project Hail Mary](https://www.goodreads.com/book/show/54493401-project-hail-mary) - Andy Weir
   * [Godan](https://www.goodreads.com/book/show/12029149-godan) - Munshi Premchand
+  * [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one) - Ernest Cline
 
 * **Memoir**
   * [Open](https://www.goodreads.com/book/show/6480781-open) - Andre Agassi
