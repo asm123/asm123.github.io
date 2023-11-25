@@ -4,7 +4,7 @@ date: 2023-11-26
 title: Book notes - The Staff Engineer's Path - Chapter 1
 tags: book-notes tech-leadership staff-engineer
 last_updated: 
-status: budding
+status: evergreen
 ---
 
 ## Chapter 1. What Would You Say You Do Here?
