@@ -61,7 +61,12 @@ layout: default
             🌱
             <small style="color: grey;"> {{ post.date | date_to_string }}
                 {% if post.last_updated %}
-                💦 {{ post.last_updated | date_to_string }}
+                {% assign last_updated_str = post.last_updated | date_to_string %}
+                {% assign original_date_str = post.date | date_to_string %}
+                {% if last_updated_str == original_date_str %}
+                {% continue %}
+                {% endif %}
+                💦 {{ last_updated_str }}
                 {% endif %}
             </small>
         </td>
