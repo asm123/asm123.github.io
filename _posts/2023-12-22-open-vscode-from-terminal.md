@@ -12,18 +12,18 @@ This post assumes Visual Studio Code is already installed.
 Open "Command Palette" in Visual Studio Code. This can be done from the menubar with `View -> Command Palette`, or by hitting `Cmd+Shift+P`.
 
 In the Command Palette, search `Install code`.
-![Alt text](/assets/images/vscode-terminal-command-palette.png)
+![Alt text](/assets/images/vscode-from-terminal/command-palette.png)
 
 Select `Shell Command: Install 'code' command in PATH` and hit enter.
 
 This will open a popup asking for admin privileges to install the shell command.  Hit enter.
-![Alt text](/assets/images/vscode-terminal-pop-up-1.png)
+![Alt text](/assets/images/vscode-from-terminal/pop-up-1.png)
 
 Next popup will ask for your system password so that `osascript` can Visual Studio Code binary in the `PATH` variable for your shell. Type in your password and hit enter.
-![Alt text](/assets/images/vscode-terminal-password-pop-up.png)
+![Alt text](/assets/images/vscode-from-terminal/password-pop-up.png)
 
 You will see another popup with success message. 
-![Alt text](/assets/images/vscode-install-successful.png)
+![Alt text](/assets/images/vscode-from-terminal/install-successful.png)
 
 And we are done!!! Open a new terminal and use `code` command to open Visual Studio Code from terminal. Try `code --help` to know what else can be done using terminal.
 
