@@ -92,7 +92,7 @@ status: budding
   * Define the work scope so that it encompasses all or some system or problem domain - helps get context to form opinions on decisions.
 
 
-#### Treasure map: where are we going?
+### Treasure map: where are we going?
 
 * Need perspective about the world around across time.
 * Don't think only about short-term wins. Take a longer view as well.
