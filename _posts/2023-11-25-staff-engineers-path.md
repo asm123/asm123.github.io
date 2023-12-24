@@ -3,7 +3,7 @@ layout: post
 date: 2023-11-25
 title: Book notes - The Staff Engineer's Path
 permalink: /staff-engineers-path
-tags: book-notes tech-leadership staff-engineer
+tags: book-notes tech-leadership staff-engineer career
 last_updated: 2023-11-25
 status: budding
 ---
@@ -26,3 +26,4 @@ Technical knowledge is not enough at this level. You need "humaning skills" such
 ## Chapter Notes
 
 * [Chapter 1. What Would You Say You Do Here?](/2023/11/26/staff-engineers-path-ch1) - defines the job, scope, shape and focus of a staff role
+* [Chapter 2. Three Maps](/2023/12/24/staff-engineers-path-ch2) - learn to see the bigger picture, understand and navigate your org for effective buy-in, think about your work and journey.

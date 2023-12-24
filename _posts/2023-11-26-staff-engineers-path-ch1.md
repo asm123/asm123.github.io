@@ -2,7 +2,7 @@
 layout: post
 date: 2023-11-26
 title: Book notes - The Staff Engineer's Path - Chapter 1
-tags: book-notes tech-leadership staff-engineer
+tags: book-notes tech-leadership staff-engineer career
 last_updated: 
 status: evergreen
 ---
@@ -81,7 +81,7 @@ status: evergreen
   * Projects with already many senior people on it.
   * Projects with more people being the wise voice of reason than those actually working on it.
 
-### Action Item
+### Action Items
 
 * Figure out if your mental model of your role is aligned with the expecations of your manager and colleagues.
   * Write out your understanding of your role and check with the manager if the expectations are aligned - primary focus, goals, example responsibilities, success criteria.
