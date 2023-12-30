@@ -13,3 +13,4 @@ status: budding
 * [swyx ideas](https://www.swyx.io/ideas)
 * [Strinkingloo](https://strikingloo.github.io/)
 * [Tania Rascia](https://www.taniarascia.com/me)
+* [Sebastian Kamilli](https://digital-garden.ontheagilepath.net/)

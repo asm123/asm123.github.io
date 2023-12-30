@@ -6,10 +6,6 @@ permalink: /bookshelf
 
 ### Currently reading
 
-* **Fiction**
-  * [Gaban](https://www.goodreads.com/book/show/11692391-gaban) - Munshi Premchand
-  
-
 * **Technical**
   * [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) - Martin Kleppmann
   
@@ -28,6 +24,7 @@ permalink: /bookshelf
   * [Project Hail Mary](https://www.goodreads.com/book/show/54493401-project-hail-mary) - Andy Weir
   * [Godan](https://www.goodreads.com/book/show/12029149-godan) - Munshi Premchand
   * [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one) - Ernest Cline
+  * [Gaban](https://www.goodreads.com/book/show/11692391-gaban) - Munshi Premchand
 
 * **Memoir**
   * [Open](https://www.goodreads.com/book/show/6480781-open) - Andre Agassi

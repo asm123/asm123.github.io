@@ -2,7 +2,8 @@
 layout: post
 date: 2023-12-24
 title: TODOs for this site
-tags: 
+tags:
+  - site
 last_updated: 2023-12-24
 status: budding
 ---
