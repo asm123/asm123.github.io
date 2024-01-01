@@ -3,7 +3,7 @@ layout: post
 title: Some digital gardens for inspiration
 date: 2023-10-28
 tags: link-collection
-last_updated: 2023-11-04
+last_updated: 2024-01-01
 status: budding
 ---
 
@@ -14,3 +14,4 @@ status: budding
 * [Strinkingloo](https://strikingloo.github.io/)
 * [Tania Rascia](https://www.taniarascia.com/me)
 * [Sebastian Kamilli](https://digital-garden.ontheagilepath.net/)
+* [Elvis Chidera](https://elvischidera.com/)
