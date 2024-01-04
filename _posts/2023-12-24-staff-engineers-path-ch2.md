@@ -4,7 +4,7 @@ date: 2023-12-24
 title: Book notes - The Staff Engineer's Path - Chapter 2
 tags: book-notes tech-leadership staff-engineer career
 last_updated: 2023-12-24
-status: budding
+status: evergreen
 ---
 
 ## Chapter 2. Three Maps
@@ -90,7 +90,6 @@ status: budding
 * Bridge connections
   * Sending email summary, write documentations that show how projects connect.
   * Define the work scope so that it encompasses all or some system or problem domain - helps get context to form opinions on decisions.
-
 
 ### Treasure map: where are we going?
 
