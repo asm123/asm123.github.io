@@ -3,8 +3,8 @@ layout: post
 date: 2024-01-01
 title: Book notes - The Staff Engineer's Path - Chapter 3
 tags: book-notes tech-leadership staff-engineer career
-last_updated: 2024-01-01
-status: budding
+last_updated: 2024-01-04
+status: evergreen
 ---
 
 ## Chapter 3. Creating the Big Picture
@@ -84,7 +84,7 @@ status: budding
 * Set scope:
   * Be conscious of your skill level and scope of influence.
   * If the plan covers areas outside of your sphere of influence, make sure to have a sponsor with influence in that area - ideally in the core group for that area.
-  * Be prepared to revisit the vision at intervals to ensure it is aligned with the organization's direction.
+  * Keep revisiting the vision at intervals to ensure it is still aligned with the organization's direction.
   * Choose the document type and format that makes sense to you and *the sponsor*.
   > Work around your fixed constraints instead of ignoring them or wishing they were different.
 * Make sure it is achievable - is the problem solvable at all? Is it solvable by you? If not:
@@ -135,14 +135,36 @@ status: budding
 #### Alignment
 * Keep the sponsor up to date on the plan and progress.
 * Check the alignment at major checkpoints - diagnosis, guiding policy, actions.
+* Apply Overton window - an approach to identifying the ideas that define the spectrum of acceptability. Don't take on an unwinnable battle.
+    
+    | ![Overton window](/assets/images/staff-engineers-path/overton-window.png){:height="300px" width="250px"} | 
+    |:--:| 
+    | From [Wikipedia](https://en.wikipedia.org/wiki/Overton_window) |
 
+* Nemawashi - quietly laying the foundation by talking to the people concerned and gathering support and feedback before a formal announcement.
+  * Someone who will need to approve the plan should show up to any decision-making meeting already convinced.
+* Tell a story that is comprehensible, relatable and comfortable.
 
+#### Final draft
 
+* Use personas, real scenario to describe people affected by vision and strategy - before and after.
+* Be concrete, avoid jargon.
+* Accompany with a second document - slide deck, one-page elevator pitch, blog post.
 
+### Launch
+
+* Make it official.
+  * Get endorsement from top of the people-manager chain: director, VP.
+  * Ask the sponsor to sell the idea. Seek help for staffing - prioritization, headcount, OKR, budget.
+* Keep it fresh - adapt the doc as per changing business context and priorities.
 
 ### Action Items
 
-
+* Read existing strategy docs within org.
+* Observe how in-progress strategy docs are being written.
 
 ### Further reading
 
+* [Overton window](https://en.wikipedia.org/wiki/Overton_window)
+* [Nemawashi](https://en.wikipedia.org/wiki/Nemawashi)
+* [How to Set the Technical Direction for Your Team](https://jlhood.com/how-to-set-team-technical-direction/) by James Hood, Principal Software Engineer @ Amazon
