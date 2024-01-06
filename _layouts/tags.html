@@ -15,7 +15,11 @@ layout: default
         {% else %}
         <tr>
             <td>
-                🪴 <a href="{{ post.url }}">{{ post.title }}</a>
+                {% if post.status == "evergreen" %}
+                🪴
+                {% else %}
+                🌿
+                {% endif %}<a href="{{ post.url }}">{{ post.title }}</a>
                 🌱
                 <small style="color: grey;"> {{ post.date | date_to_string }}
                     {% if post.last_updated %}
