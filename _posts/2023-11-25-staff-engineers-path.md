@@ -28,3 +28,4 @@ Technical knowledge is not enough at this level. You need "humaning skills" such
 * [Chapter 1. What Would You Say You Do Here?](/2023/11/26/staff-engineers-path-ch1) - defines the job, scope, shape and focus of a staff role
 * [Chapter 2. Three Maps](/2023/12/24/staff-engineers-path-ch2) - learn to see the bigger picture, understand and navigate your org for effective buy-in, think about your work and journey.
 * [Chapter 3. Creating the Big Picture](/2024/01/01/staff-engineers-path-ch3) - describes the pre-work in preparing technical vision and strategy docs.
+* [Chapter 4. Finite Time](/2024/01/06/staff-engineers-path-ch4) - guides on choosing projects with impact and managing one's resources.

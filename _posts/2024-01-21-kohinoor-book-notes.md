@@ -9,6 +9,8 @@ status: budding
 
 Book: [Kohinoor: The Story of the World’s Most Infamous Diamond](https://www.goodreads.com/book/show/33391999-kohinoor) - William Dalrymple, Anita Anand
 
+![Book cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1481812727i/33391999.jpg)
+
 ## Kohinoor's journey
 1. Maybe the "Syamantaka" gem of Bhagavad and Vishnu Puranas is Kohinoor.
 2. Discovery is unknown.
