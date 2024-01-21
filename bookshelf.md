@@ -12,6 +12,14 @@ permalink: /bookshelf
 * **Leadership**
   * [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) - Tanya Reilly - [notes](/staff-engineers-path)
 
+* **Fiction**
+  * [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) - Oscar Wilde
+
+### Read in 2024
+
+* **History**
+  * [Kohinoor: The Story of the World’s Most Infamous Diamond](https://www.goodreads.com/book/show/33391999-kohinoor) - William Dalrymple, Anita Anand - [book notes](/2024/01/21/kohinoor-book-notes)
+
 ### Read in 2023
 
 * **Psychology**
