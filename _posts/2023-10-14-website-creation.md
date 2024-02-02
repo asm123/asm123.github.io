@@ -3,6 +3,8 @@ layout: post
 title:  "Creating a website with GitHub Pages"
 date: 2023-10-14
 tags: tutorial dev github-pages
+last_updated: 2024-01-28
+status: budding
 ---
 
 A tutorial for setting up your own website using GitHub Pages.
@@ -12,6 +14,7 @@ A tutorial for setting up your own website using GitHub Pages.
     - [Install Jekyll gem](#install-jekyll-gem)
 - [Create a GitHub repo](#create-a-github-repo)
 - [Create demo site](#create-demo-site)
+- [Run the website locally](#run-the-website-locally)
 
 
 
@@ -75,3 +78,11 @@ Follow the steps from [GitHub documentation](https://docs.github.com/en/pages/ge
 ## Create demo site
 
 While the [official documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll) for creating a demo site is great, I found [this article](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) more helpful.
+
+## Run the website locally
+
+```bash
+bundle exec jekyll serve --watch
+```
+
+Website will be viewable locally at `http://127.0.0.1:4000/`.
