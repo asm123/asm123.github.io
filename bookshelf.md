@@ -8,12 +8,16 @@ permalink: /bookshelf
 
 * **Technical**
   * [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) - Martin Kleppmann
-  
+  * [Refactoring](https://martinfowler.com/books/refactoring.html) - Martin Fowler
+
+* **Science**
+  * [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) - Brian Christian, Tom Griffiths
+
+### Read in 2024
 
 * **Memoir**
   * [My Life in Full: Work, Family, and Our Future](https://www.goodreads.com/book/show/57499853-my-life-in-full) - Indra Nooyi
-
-### Read in 2024
+  * [What Do You Care What Other People Think?: Further Adventures of a Curious Character](https://www.goodreads.com/book/show/35167718-what-do-you-care-what-other-people-think) - Richard Feynman, Ralph Leighton
 
 * **History**
   * [Kohinoor: The Story of the World’s Most Infamous Diamond](https://www.goodreads.com/book/show/33391999-kohinoor) - William Dalrymple, Anita Anand - [book notes](/2024/01/21/kohinoor-book-notes)
@@ -23,6 +27,10 @@ permalink: /bookshelf
 
 * **Fiction**
   * [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) - Oscar Wilde
+  * [Waiting for Godot](https://www.goodreads.com/book/show/17716.Waiting_for_Godot) - Samuel Beckett
+
+* **Personal development**
+  * [Master Your Time, Master Your Life](https://www.goodreads.com/book/show/31287110-master-your-time-master-your-life) - Brian Tracy
 
 ### Read in 2023
 
