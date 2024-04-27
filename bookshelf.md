@@ -19,7 +19,7 @@ permalink: /bookshelf
 ### Read in 2024
 
 * **Memoir**
-  * [My Life in Full: Work, Family, and Our Future](https://www.goodreads.com/book/show/57499853-my-life-in-full) - Indra Nooyi
+  * [My Life in Full: Work, Family, and Our Future](https://www.goodreads.com/book/show/57499853-my-life-in-full) - Indra Nooyi - [notes](/my-life-in-full)
   * [What Do You Care What Other People Think?: Further Adventures of a Curious Character](https://www.goodreads.com/book/show/35167718-what-do-you-care-what-other-people-think) - Richard Feynman, Ralph Leighton
 
 * **History**

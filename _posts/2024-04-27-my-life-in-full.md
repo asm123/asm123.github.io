@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2024-04-27
+permalink: /my-life-in-full
 title: "Book notes - \"My Life in Full: Work, Family, and Our Future\""
 tags: book-notes memoir leadership
 last_updated: 2024-04-27
