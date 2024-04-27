@@ -13,6 +13,9 @@ permalink: /bookshelf
 * **Science**
   * [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) - Brian Christian, Tom Griffiths
 
+* **Personal development**
+  * [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/book/show/40672036-digital-minimalism) - Cal Newport
+
 ### Read in 2024
 
 * **Memoir**
