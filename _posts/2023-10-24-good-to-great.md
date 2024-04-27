@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book notes - Good to Great - Jim Collins - Summary
+title: Book notes - Good to Great - Jim Collins
 date: 2023-10-24
 permalink: /good-to-great
 tags: book-notes business non-fiction
@@ -102,7 +102,7 @@ TODO
 
 * Bureaucracy is to compensate for incompetence and lack of discipline. Avoid bureaucracy and hierarchy, instead create a culture of discipline.
 * Never just focus on what you've accomplished this year; focus on what you've accomplished relative to exactly what you decided to accomplish.
-* Build a culture full of people who take disciplined action consistent with the [Hedgehog Concept](/2023/10/22/good-to-great-ch5).
+* Build a culture full of people who take disciplined action consistent with the [Hedgehog Concept](#chapter-5---the-hedgehog-concept-simplicity-within-the-three-circles).
   * Disciplined people: Hire self-disciplined people.
   * Disciplined thought: Confront brutal facts of reality, retain faith that you can and will create a path to greatness. Persist the search for understanding until you get your Hedgehog Concept.
   * Disciplined action: Extreme diligence and stunning intensity. Fanatically adhere to the Hedgehog Concept.
@@ -117,8 +117,8 @@ TODO
 
 * Technology is important, but technology alone cannot create sustainable results. It by itself is never a primary cause of either greatness or decline.
 * Use technology as an *accelerator* of the momentum, not a *creator* for it.
-  * Become a pioneer in the application of carefully selected technologies to link directly to the three circles of [Hedgehog Concept](/2023/10/22/good-to-great-ch5).
-  * It is a special case of [Disciplined Action](/2023/10/24/good-to-great-ch6).
+  * Become a pioneer in the application of carefully selected technologies to link directly to the three circles of [Hedgehog Concept](#chapter-5---the-hedgehog-concept-simplicity-within-the-three-circles).
+  * It is a special case of [Disciplined Action](#chapter-6---a-culture-of-discipline).
 * Thoughtless reliance on technology is a liability.
 * How a company reacts to technological change is a good indicator of its drive for greatness vs medocrity.
   * Great companies respond with thoughtfulness and creativity, driven by a compulsion to turn unrealized potential into results.
@@ -139,7 +139,7 @@ TODO
     - [Source](https://theleanminimalist.com/2019/03/08/from-intentional-business-to-intentional-living-adapting-the-flywheel-concept-to-drive-your-personal-development-journey/)
 
 
-* Big acquisitions should take place after development of [Hedgehog Concept](/2023/10/22/good-to-great-ch5) and after the flywheel builds significant momentum.
+* Big acquisitions should take place after development of [Hedgehog Concept](#chapter-5---the-hedgehog-concept-simplicity-within-the-three-circles) and after the flywheel builds significant momentum.
   * Use acquisitions as an accelerator of flywheel momentum, not a creator of it.
 * Consistency and coherence over time yield maximum results.
 
@@ -161,5 +161,5 @@ TODO
   3. build them explicitly into the organization,
   4. preserve them over time.
 
-* Bad BHAGs are set with bravado, good BHAGs are set with understanding - [Hedgehog Concept](/2023/10/22/good-to-great-ch5).
+* Bad BHAGs are set with bravado, good BHAGs are set with understanding - [Hedgehog Concept](#chapter-5---the-hedgehog-concept-simplicity-within-the-three-circles).
 * Enduring greatness requires staying squarely within three circles and also being willing to change the specific manifestation of what's inside the three circles at any given moment. For example, Boeing started with military jets and later included commercial aircrafts. 
