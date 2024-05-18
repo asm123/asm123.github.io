@@ -13,8 +13,9 @@ permalink: /bookshelf
 * **Science**
   * [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) - Brian Christian, Tom Griffiths
 
-* **Personal development**
-  * [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/book/show/40672036-digital-minimalism) - Cal Newport
+* **Fiction**
+  * [The Color Purple](https://www.goodreads.com/book/show/52892857-the-color-purple) - Alice Walker
+  * [Bulls, Bears and Other Beasts](https://www.goodreads.com/en/book/show/32716919) - Santosh Nair
 
 ### Read in 2024
 
@@ -34,6 +35,7 @@ permalink: /bookshelf
 
 * **Personal development**
   * [Master Your Time, Master Your Life](https://www.goodreads.com/book/show/31287110-master-your-time-master-your-life) - Brian Tracy
+  * [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/book/show/40672036-digital-minimalism) - Cal Newport
 
 ### Read in 2023
 
