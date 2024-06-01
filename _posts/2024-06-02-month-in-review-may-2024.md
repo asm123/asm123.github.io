@@ -13,6 +13,7 @@ status: budding
 
 #### Wonderful views
 * [How JioCinema live streams IPL to 20 million concurrent devices w/ Prachi Sharma \| Ep 7](https://www.youtube.com/watch?v=36N1Bz7qW0A)
+* [Garbage Collection (Mark & Sweep) - Computerphile](https://www.youtube.com/watch?v=c32zXYAK7CI)
 
 #### Wonderful reads
 * Started reading [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) - [notes](/algorithms-to-live-by)
