@@ -7,7 +7,7 @@ permalink: /bookshelf
 ### Currently reading
 
 * **Technical**
-  * [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) - Martin Kleppmann
+  * [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) - Martin Kleppmann - [notes](/ddia)
   * [Refactoring](https://martinfowler.com/books/refactoring.html) - Martin Fowler
 
 * **Science**
