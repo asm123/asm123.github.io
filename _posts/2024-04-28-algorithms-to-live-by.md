@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2024-04-28
+permalink: /algorithms-to-live-by
 title: "Book notes - \"Algorithms to Live By: The Computer Science of Human Decisions\""
 tags: book-notes science
 last_updated: 2024-05-12
@@ -24,6 +25,7 @@ Book: [Algorithms to Live By: The Computer Science of Human Decisions](https://w
 
 * [Chapter 3: Sorting - Making Order](#chapter-3-sorting---making-order)
 * [Chapter 4: Caching - Forget About It](#chapter-4-caching---forget-about-it)
+* [Chapter 5: Scheduling - First Things First](#chapter-5-scheduling---first-things-first)
 
 ## Chapter 3: Sorting - Making Order
 
@@ -126,3 +128,25 @@ Book: [Algorithms to Live By: The Computer Science of Human Decisions](https://w
     * The length of a delay is partly an indicator of the extent of your experience.
 
 > The disproportionate occasional lags in information retrieval are a reminder of just how much we benefit the rest of the time by having what we need at the front of our minds.
+
+
+## Chapter 5: Scheduling - First Things First
+
+* Time-management guides often have divergent and inconsistent guidance.
+* The science of scheduling began in the machine shops of industrial revolution.
+* Frederick Taylor developed "Scientific Management" discipline, his colleague Henry Gantt developed the Gantt charts to figure out schedules for tasks to be run on machines in their shops.
+* Selmer Johnson proposed an optimal algorithm - one should begin by finding the single step that takes the least amount of time. For example, in a launderette with a washer and dryer, start with the lightest wash and end with the smallest hamper for drying.
+* In single-machine scheduling, all schedules for a given list of tasks will take equally long to complete regardless of the order of tasks in the schedules.
+
+> First rule in single-machine scheduling: Make your goals explicit.
+
+* Decide the metrics for a schedule to be considered optimal.
+* Earliest due date: Minimize the maximum lateness. Start with the task due soonest and work toward the task due last.
+	* Common in service industry. May not be that good for finishing the fresh produce in the order of their spoilage schedule.
+* Moore's algorithm: Minimize the number of tasks that are late, regardless of the severity of the lateness.
+* Shortest processing time: Minimize the sum of completion times. Always do the quickest task you can.
+	* Compatible with the recommendation in "Getting Things Done".
+
+> Not all unfinished business is created equal.
+
+* Putting out an actual fire in the kitchen >>>> putting out a fire with a quick email to a client.
