@@ -47,6 +47,8 @@ I will consider a city visited if I stepped outside the bus station / train stat
 - Krabi
 - Patong
 - Singapore
+- Dubai
+- Abu Dhabi
 
 
 ## USA
