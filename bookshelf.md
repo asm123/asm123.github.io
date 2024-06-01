@@ -14,8 +14,10 @@ permalink: /bookshelf
   * [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) - Brian Christian, Tom Griffiths
 
 * **Fiction**
-  * [The Color Purple](https://www.goodreads.com/book/show/52892857-the-color-purple) - Alice Walker
   * [Bulls, Bears and Other Beasts](https://www.goodreads.com/en/book/show/32716919) - Santosh Nair
+
+* **Memoir**
+  * [Under the Tuscan Sun: At Home in Italy](https://www.goodreads.com/book/show/480479.Under_the_Tuscan_Sun) - Frances Mayes
 
 ### Read in 2024
 
@@ -32,6 +34,7 @@ permalink: /bookshelf
 * **Fiction**
   * [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) - Oscar Wilde
   * [Waiting for Godot](https://www.goodreads.com/book/show/17716.Waiting_for_Godot) - Samuel Beckett
+  * [The Color Purple](https://www.goodreads.com/book/show/52892857-the-color-purple) - Alice Walker
 
 * **Personal development**
   * [Master Your Time, Master Your Life](https://www.goodreads.com/book/show/31287110-master-your-time-master-your-life) - Brian Tracy
@@ -64,4 +67,3 @@ permalink: /bookshelf
 
 * **Leadership**
   * [Good to Great: Why Some Companies Make the Leap... and Others Don't](https://www.goodreads.com/book/show/76865.Good_to_Great) - Jim Collins - [notes](/good-to-great)
-
