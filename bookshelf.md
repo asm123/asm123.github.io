@@ -7,7 +7,6 @@ permalink: /bookshelf
 ### Currently reading
 
 * **Technical**
-  * [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) - Martin Kleppmann - [notes](/ddia)
   * [Refactoring](https://martinfowler.com/books/refactoring.html) - Martin Fowler
 
 * **Science**
@@ -20,6 +19,9 @@ permalink: /bookshelf
   * [Under the Tuscan Sun: At Home in Italy](https://www.goodreads.com/book/show/480479.Under_the_Tuscan_Sun) - Frances Mayes
 
 ### Read in 2024
+
+* **Technical**
+  * [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) - Martin Kleppmann - [notes](/ddia)
 
 * **Memoir**
   * [My Life in Full: Work, Family, and Our Future](https://www.goodreads.com/book/show/57499853-my-life-in-full) - Indra Nooyi - [notes](/my-life-in-full)
@@ -35,6 +37,7 @@ permalink: /bookshelf
   * [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) - Oscar Wilde
   * [Waiting for Godot](https://www.goodreads.com/book/show/17716.Waiting_for_Godot) - Samuel Beckett
   * [The Color Purple](https://www.goodreads.com/book/show/52892857-the-color-purple) - Alice Walker
+  * [Kim Jiyoung, Born 1982](https://www.goodreads.com/book/show/46041199-kim-jiyoung-born-1982) - Cho Nam-Joo
 
 * **Personal development**
   * [Master Your Time, Master Your Life](https://www.goodreads.com/book/show/31287110-master-your-time-master-your-life) - Brian Tracy
@@ -60,7 +63,6 @@ permalink: /bookshelf
 
 * **Science**
   * [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/book/show/34466963-why-we-sleep) - Matthew Walker
-
 
 * **Programming**
   * [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) - Andy Hunt
