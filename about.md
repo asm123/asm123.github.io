@@ -14,4 +14,4 @@ A few times, I post [dev snippets](/tags/dev) commonly required in my day-to-day
 
 And finally, [Micro](/micro) is my chaotic and yet calming corner to post random flashes of thoughts or anything that gets me excited briefly.
 
-In summary, this website is really for my own learning and lookup, but if you find anything useful or interesting here, that's a bonus! Not everything is thoroughly researched or well thought out. Pretty much everything is a draft.
+This website has no cookies 🍪, no trackers 🐾, no fancy stuff. I do not care about analytics. This website is really for my own learning and lookup. If you find anything useful or interesting here, that's an unintended effect. I did not build it for anyone else's eyeballs and do not care if anybody ever visits or never visits this website.
