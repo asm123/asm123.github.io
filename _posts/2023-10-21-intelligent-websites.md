@@ -2,7 +2,7 @@
 layout: post
 title: Intelligent websites
 date: 2023-10-21
-tags: thinking link-collection
+tags: thinking links
 status: budding
 ---
 

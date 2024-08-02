@@ -2,7 +2,7 @@
 layout: post
 date: 2023-11-04
 title: Interesting threads on reddit
-tags: link-collection
+tags: links
 last_updated:
 status: budding
 ---

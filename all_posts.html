@@ -1,0 +1,36 @@
+---
+layout: page
+title: All Posts
+permalink: /all
+---
+
+<table>
+    {% for post in site.posts %}
+    {% if post.tags contains "micro"%}
+    {% continue %}
+    {% endif %}
+
+    <tr>
+        <td>
+            {% if post.status == "evergreen" %}
+            🪴
+            {% else %}
+            🌿
+            {% endif %}
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            🌱
+            <small style="color: grey;"> {{ post.date | date_to_string }}
+                {% if post.last_updated %}
+                {% assign last_updated_str = post.last_updated | date_to_string %}
+                {% assign original_date_str = post.date | date_to_string %}
+                {% if last_updated_str == original_date_str %}
+                {% continue %}
+                {% endif %}
+                💦 {{ last_updated_str }}
+                {% endif %}
+            </small>
+        </td>
+    <tr>
+        {% endfor %}
+</table>
+</p>

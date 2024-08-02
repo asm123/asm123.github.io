@@ -2,7 +2,7 @@
 layout: post
 title: Some digital gardens for inspiration
 date: 2023-10-28
-tags: link-collection
+tags: links
 last_updated: 2024-01-01
 status: budding
 ---

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-12-28
 title: LLM basics - reading list of articles
-tags: ai llm
+tags: ai
 last_updated: 2023-12-28
 status: budding
 ---

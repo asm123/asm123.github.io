@@ -8,6 +8,7 @@ permalink: /bookshelf
 
 * **Technical**
   * [Refactoring](https://martinfowler.com/books/refactoring.html) - Martin Fowler
+  * [System Design Interview - An Insider's Guide](https://www.google.co.in/books/edition/System_Design_Interview_An_Insider_s_Gui/b_mUzQEACAAJ) - Alex Xu
 
 * **Science**
   * [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) - Brian Christian, Tom Griffiths
@@ -15,10 +16,11 @@ permalink: /bookshelf
 * **Fiction**
   * [Bulls, Bears and Other Beasts](https://www.goodreads.com/en/book/show/32716919) - Santosh Nair
 
-* **Memoir**
-  * [Under the Tuscan Sun: At Home in Italy](https://www.goodreads.com/book/show/480479.Under_the_Tuscan_Sun) - Frances Mayes
+* **Personal development**
+  * [Make Time: How to focus on what matters every day](https://maketime.blog/) - Jake Knapp, John Zeratsky
+  * [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://jamesclear.com/atomic-habits) - James Clear
 
-### Read in 2024
+### 2024
 
 * **Technical**
   * [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) - Martin Kleppmann - [notes](/ddia)
@@ -28,7 +30,7 @@ permalink: /bookshelf
   * [What Do You Care What Other People Think?: Further Adventures of a Curious Character](https://www.goodreads.com/book/show/35167718-what-do-you-care-what-other-people-think) - Richard Feynman, Ralph Leighton
 
 * **History**
-  * [Kohinoor: The Story of the World’s Most Infamous Diamond](https://www.goodreads.com/book/show/33391999-kohinoor) - William Dalrymple, Anita Anand - [book notes](/2024/01/21/kohinoor-book-notes)
+  * [Kohinoor: The Story of the World’s Most Infamous Diamond](https://www.goodreads.com/book/show/33391999-kohinoor) - William Dalrymple, Anita Anand - [notes](/2024/01/21/kohinoor-book-notes)
 
 * **Leadership**
   * [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) - Tanya Reilly - [notes](/staff-engineers-path)
@@ -43,7 +45,12 @@ permalink: /bookshelf
   * [Master Your Time, Master Your Life](https://www.goodreads.com/book/show/31287110-master-your-time-master-your-life) - Brian Tracy
   * [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/book/show/40672036-digital-minimalism) - Cal Newport
 
-### Read in 2023
+#### Abandoned
+
+* **Memoir**
+  * [Under the Tuscan Sun: At Home in Italy](https://www.goodreads.com/book/show/480479.Under_the_Tuscan_Sun) - Frances Mayes
+
+### 2023
 
 * **Psychology**
     * [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets](https://www.goodreads.com/review/show/366460890) - Nassim Nicholas Taleb

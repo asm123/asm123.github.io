@@ -2,7 +2,7 @@
 layout: post
 date: 2023-11-03
 title: Podcasts to follow
-tags: link-collection
+tags: links
 last_updated: 2023-11-26
 status: budding
 ---

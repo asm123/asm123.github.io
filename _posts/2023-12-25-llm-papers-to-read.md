@@ -2,7 +2,7 @@
 layout: post
 date: 2023-12-25
 title: LLM paper reading list
-tags: ai llm
+tags: ai
 last_updated: 2023-12-25
 status: budding
 ---
