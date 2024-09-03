@@ -7,18 +7,20 @@ permalink: /bookshelf
 ### Currently reading
 
 * **Technical**
-  * [Refactoring](https://martinfowler.com/books/refactoring.html) - Martin Fowler
   * [System Design Interview - An Insider's Guide](https://www.google.co.in/books/edition/System_Design_Interview_An_Insider_s_Gui/b_mUzQEACAAJ) - Alex Xu
+  * [AI and Machine Learning for Coders](https://learning.oreilly.com/library/view/ai-and-machine/9781492078180/) - Laurence Moroney
+  
 
 * **Science**
   * [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) - Brian Christian, Tom Griffiths
 
 * **Fiction**
   * [Bulls, Bears and Other Beasts](https://www.goodreads.com/en/book/show/32716919) - Santosh Nair
+  * [Lessons in Chemistry](https://www.goodreads.com/book/show/206305528-lessons-in-chemistry) - Bonnie Garmus
 
 * **Personal development**
-  * [Make Time: How to focus on what matters every day](https://maketime.blog/) - Jake Knapp, John Zeratsky
   * [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://jamesclear.com/atomic-habits) - James Clear
+  * [Why Has Nobody Told Me This Before?](https://www.goodreads.com/book/show/58536046-why-has-nobody-told-me-this-before) - Julie Smith
 
 ### 2024
 
@@ -28,6 +30,8 @@ permalink: /bookshelf
 * **Memoir**
   * [My Life in Full: Work, Family, and Our Future](https://www.goodreads.com/book/show/57499853-my-life-in-full) - Indra Nooyi - [notes](/my-life-in-full)
   * [What Do You Care What Other People Think?: Further Adventures of a Curious Character](https://www.goodreads.com/book/show/35167718-what-do-you-care-what-other-people-think) - Richard Feynman, Ralph Leighton
+  * [Permanent Record](https://www.goodreads.com/book/show/51801760-permanent-record) - Edward Snowden
+  * [Bossypants](https://www.goodreads.com/book/show/9418327-bossypants) - Tina Fey
 
 * **History**
   * [Kohinoor: The Story of the World’s Most Infamous Diamond](https://www.goodreads.com/book/show/33391999-kohinoor) - William Dalrymple, Anita Anand - [notes](/2024/01/21/kohinoor-book-notes)
@@ -44,11 +48,17 @@ permalink: /bookshelf
 * **Personal development**
   * [Master Your Time, Master Your Life](https://www.goodreads.com/book/show/31287110-master-your-time-master-your-life) - Brian Tracy
   * [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/book/show/40672036-digital-minimalism) - Cal Newport
+  * [Make Time: How to focus on what matters every day](https://maketime.blog/) - Jake Knapp, John Zeratsky
 
 #### Abandoned
 
+* **Technical**
+  * [Refactoring](https://martinfowler.com/books/refactoring.html) - Martin Fowler
+    * Reading books for other skills ([AI AI AI](https://www.youtube.com/watch?v=-P-ein58laA)) took precedence over reading this. Should definitely pick this again after some time.
+
 * **Memoir**
   * [Under the Tuscan Sun: At Home in Italy](https://www.goodreads.com/book/show/480479.Under_the_Tuscan_Sun) - Frances Mayes
+    * Did not like the style of writing. Felt incoherent. Not willing to pick it up back again.
 
 ### 2023
 
