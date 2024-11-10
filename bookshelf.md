@@ -9,17 +9,19 @@ permalink: /bookshelf
 * **Technical**
   * [System Design Interview - An Insider's Guide](https://www.google.co.in/books/edition/System_Design_Interview_An_Insider_s_Gui/b_mUzQEACAAJ) - Alex Xu
   * [AI and Machine Learning for Coders](https://learning.oreilly.com/library/view/ai-and-machine/9781492078180/) - Laurence Moroney
-  
+
+* **Memoir**
+  * [The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI](https://www.goodreads.com/book/show/144405196-the-worlds-i-see) - Fei-Fei Li  
 
 * **Science**
   * [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) - Brian Christian, Tom Griffiths
 
 * **Fiction**
   * [Bulls, Bears and Other Beasts](https://www.goodreads.com/en/book/show/32716919) - Santosh Nair
-  * [Lessons in Chemistry](https://www.goodreads.com/book/show/206305528-lessons-in-chemistry) - Bonnie Garmus
+  * [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and-tomorrow) - Gabrielle Zevin
 
 * **Personal development**
-  * [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://jamesclear.com/atomic-habits) - James Clear
+  * [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://jamesclear.com/atomic-habits) - James Clear (re-reading)
   * [Why Has Nobody Told Me This Before?](https://www.goodreads.com/book/show/58536046-why-has-nobody-told-me-this-before) - Julie Smith
 
 ### 2024
@@ -44,6 +46,7 @@ permalink: /bookshelf
   * [Waiting for Godot](https://www.goodreads.com/book/show/17716.Waiting_for_Godot) - Samuel Beckett
   * [The Color Purple](https://www.goodreads.com/book/show/52892857-the-color-purple) - Alice Walker
   * [Kim Jiyoung, Born 1982](https://www.goodreads.com/book/show/46041199-kim-jiyoung-born-1982) - Cho Nam-Joo
+  * [Lessons in Chemistry](https://www.goodreads.com/book/show/206305528-lessons-in-chemistry) - Bonnie Garmus
 
 * **Personal development**
   * [Master Your Time, Master Your Life](https://www.goodreads.com/book/show/31287110-master-your-time-master-your-life) - Brian Tracy
