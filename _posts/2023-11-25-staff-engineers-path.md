@@ -4,7 +4,7 @@ date: 2023-11-25
 title: Book notes - The Staff Engineer's Path
 permalink: /staff-engineers-path
 tags: book-notes tech-leadership staff-engineer career
-last_updated: 2024-01-04
+last_updated: 2024-11-19
 status: budding
 ---
 
@@ -28,6 +28,7 @@ Technical knowledge is not enough at this level. You need "humaning skills" such
 * [Chapter 2. Three Maps](#chapter-2-three-maps) - learn to see the bigger picture, understand and navigate your org for effective buy-in, think about your work and journey.
 * [Chapter 3. Creating the Big Picture](#chapter-3-creating-the-big-picture) - describes the pre-work in preparing technical vision and strategy docs.
 * [Chapter 4. Finite Time](#chapter-4-finite-time) - guides on choosing projects with impact and managing one's resources.
+* [Chapter 5. Leading Big Projects](#chapter-5-leading-big-projects) - guides on leading projects from start to end, and navigating roadblocks.
 
 ---
 
@@ -45,7 +46,7 @@ Technical knowledge is not enough at this level. You need "humaning skills" such
 
 ### What is the job?
 
-- Involved and invested in growing technicall skills of engineers around them, but not responsible for managing their performance.
+- Involved and invested in growing technical skills of engineers around them, but not responsible for managing their performance.
 - Leadership - designing solutions that protect other engineers from common mistakes, reviewing code and designs, setting technical direction. 
   - *Having the reputation as a stellar technologist that can inspire other people because they trust you.*
 - Solid foundation of technical skills.
@@ -107,7 +108,7 @@ Technical knowledge is not enough at this level. You need "humaning skills" such
 
 ### Action Items
 
-* Figure out if your mental model of your role is aligned with the expecations of your manager and colleagues.
+* Figure out if your mental model of your role is aligned with the expectations of your manager and colleagues.
   * Write out your understanding of your role and check with the manager if the expectations are aligned - primary focus, goals, example responsibilities, success criteria.
 
 ### Further reading
@@ -123,7 +124,7 @@ Technical knowledge is not enough at this level. You need "humaning skills" such
 
 * The maps to have continual context and a sense of what is going on:
   1. Locator map: your place in the wider organization and company.
-  2. Topgraphical map: navigating an organization - robust knowledge of what's ahead - how leaders operate, how decisions are made, org charts.
+  2. Topographical map: navigating an organization - robust knowledge of what's ahead - how leaders operate, how decisions are made, org charts.
   3. Treasure map: taking a long view and evaluating the purpose of your work.
 
 ---
@@ -293,7 +294,7 @@ Technical knowledge is not enough at this level. You need "humaning skills" such
   * Core group - 2-4 people - to create the document
     * Use the [topographical map](#topographical-map-navigating-the-organization) to identify who should be on your side, who might oppose. Bring along the potential opposers on your side from the start.
     * Be clear and highlight *from the start* whether you are the lead of the group or an equal peer.
-  * Broad group - lightweight involvement - for alignment and supoort
+  * Broad group - lightweight involvement - for alignment and support
     * Keep them enagaged: interview them and represent their point of view in the work
     * Send them updates on the progress on the document.
     * Invite to review the early draft.
@@ -321,7 +322,7 @@ Technical knowledge is not enough at this level. You need "humaning skills" such
 * Initial ideas
   * Inherit the constraints from broader visions and strategies. Use the [locator map](#locator-map-getting-perspective).
   * Include paths to success for the organization's existing plans, be aware of smaller scope documents to understand the potential disruptions.
-  * Understand what is diffcult and needs to change, where should your group be investing.
+  * Understand what is difficult and needs to change, where should your group be investing.
   * Ensure to retain the things that are currently working well.
   * What is important, what matters?
   * What will future you wish that present you had done?
@@ -387,8 +388,6 @@ Technical knowledge is not enough at this level. You need "humaning skills" such
 
 
 ---
-
-
 ## Chapter 4. Finite Time
 
 ### Synopsis
@@ -486,4 +485,104 @@ The bigger the project, the longer you should spend thinking about whether it is
 
 * [Work on what matters.](https://lethain.com/work-on-what-matters/)
 
+---
+## Chapter 5. Leading Big Projects
 
+### Synopsis
+
+* Context: 
+	* Staff engineer may have other leads involved in the big project (PMs, managers, senior engineers).
+	* Nobody reports to the staff engineer.
+	* Staff engineer is responsible for the result and is thinking about the whole problem.
+* Techniques for:
+	* Making sense of the problem.
+	* Creating relationships for collaboration.
+	* Setting the project up for success with goals, plans for deliverables and accountability.
+	* Driving the project.
+
+---
+
+### The start of a project
+
+* It is normal to feel overwhelmed while beginning a project.
+	* > That feeling of discomfort is called learning. - Polina Giralt
+	* Imposter syndrome feeling -> stress, anxiety.
+		* Check if any of the [resources](#resource-constraints) are at worrying levels.
+		* Internalize that this is the nature of the work and the job is to be brave enough to make mistakes and own them.
+* Making a new project less overwhelming:
+	* Create an anchor for yourself with document of all the braindump for the project.
+	* Talk to the project sponsor to align on the mission of the project, your role and expectations.
+	* Find someone who can be a sounding board when the project is difficult. These should not be the junior engineers - shield them from ambiguity and fears, provide them safety.
+	* Take any step that would help you exert some control over the problem.
+	* Use your strengths to make progress, e.g., jump into code, read docs, talk to people.
+* Build the context by [building the three maps](#chapter-2-three-maps). 
+* Clarify the following for yourself and everyone else:
+  * Goals: 
+    * Understand the why.
+  * Customer needs: 
+    * Be obsessed with customer needs, business context, key metrics and customer experience.
+  * Success metrics: 
+    * Set up objective metrics, get real and measurable goals in place quickly, ensure leads and sponsors are on the same page.
+  * Sponsors, stakeholders and customers.
+  * Constraints to set the right expectations: 
+    * Describe the reality of the situation you are in to avoid being mad at reality for not being as you wish it to be.
+  * Risks: 
+    * Frequent iterative changes have a better chance of getting user feedback and course-correcting than a single win-or-lose release at the end.
+  * Historical context: 
+    * Origin of the project, past attempts. Have a lot of conversations to find out dependencies, workarounds, people's feelings and expectations, learn from others' experiences.
+  * Stakeholders and leads: 
+    * Build good working relationships, understand their role and involvement.
+* Give your project a structure:
+  * Define roles: Beginning of the project is the best time to lay out each leader's responsibilities.
+    * Responsibility assignment matrix: 
+      * Responsible - the person actually doing the work.
+      * Accountable - the person ultimately delivering the work and responsible for signing off that it's done. Should be only one per task.
+      * Consulted - people who are asked for their opinion.
+      * Informed - people to be kept up to date on progress.
+  * Recruit people for roles you don't want to do or do not have time to do.
+  * Agree on scope - decide what you're doing first, set a milestone and assign a deadline.
+    * Make the increments small enough that there is always a milestone in sight.
+  * Estimate time
+  * Agree on logistics - meetings, communication modes, sharing status, documentation location, development practices.
+  * Have a kickoff meeting.
+
+### Driving a project
+
+> Driving cannot be passive. It is an active, deliberate, mindful role. It means choosing your route, making decisions, and reacting to hazards on the road ahead. If you're the project lead, you're in the driver's seat. You're responsible for getting everyone safely to the destination.
+
+* Exploring:
+  * What are the important aspects of the project? - what are you trying to achieve, what will be different once you've achieved it, what approach are you taking - build a crisp definition of what you're doing.
+  * What possible approaches can you take? - figure out what you'll do _only_ once you have a clear story for what you are trying to do. Be open to existing solutions, learn from history - successes and failures.
+* Clarifying: 
+  * Give everyone mental models for what you're all doing - help them connect the project concepts back to something they already understand.
+  * Provide a glossary, be deliberate about describing the terms used.
+  * Visualize.
+* Designing:
+  * Write things to down in design docs or RFCs to ensure everyone is on the same page.
+    * Mention context, goals, design, security / privacy / compliance, alternatives considered, prior art, background, trade-offs, risks, dependencies, operations.
+    * Readers should understand what you intend to do and should be able to tell you whether they think it will work.
+  * Technical pitfalls:
+    * Assuming the problem being solved is brand-new
+    * Not internalizing the complexity of something
+    * Building only for the present
+    * Building for the distant, distant future
+    * Ignoring the difficult part of the project for later
+    * Solving the small problem by making the big problem more difficult
+    * Not making systems operable - observable, debuggable, self-documenting processes.
+    * Discussing the most trivial decisions the most while not engaging at all with the ones that are harder to grasp or to find consensus on.
+  * Coding:
+    * Staying involved in the implementation ensures that you feel the cost of your own architectural decisions. Coding at the expense of more difficult, important things is snacking.
+    * Think of your code as a lever to help everyone else. Be an exemplar, but not a bottleneck.
+    * Rather than taking on every important change yourself, find opportunities for other people to grow.
+  * Communicating:
+    * Find opportunities for team members to talk to each other regularly and build relationships. It should feel easy to reach out, ask questions, disagree without getting tense.
+    * Make it easy for stakeholders to know the current status of the project via 1:1, regular email updates, project dashboards.
+      * Explain the status in terms of impact and think about what the audience will actually want to know.
+      * If your project is stuck, don't hide it. Ask for help.
+  * Navigating:
+    * Things can go wrong. Less frustration if you go into the project assuming something is going to go wrong at some point.
+    * Reframe the diversions as an opportunity to learn and have an experience you wouldn't have otherwise.
+    * You are accountable for what happens when your project hits a roadblock - rerouting, asking for help, or declaring the goal unreachable.
+    * Work with your team to figure out how you can navigate around it, communicate well, do not create panic. Give people facts and be clear about what to do with that information.
+    
+    > If you're stuck and need help, the biggest failure is not asking for it. Don't struggle alone.
