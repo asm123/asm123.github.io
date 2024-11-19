@@ -8,7 +8,10 @@ last_updated: 2024-11-19
 status: budding
 ---
 
-* Book: [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) by [Tanya Reilly](https://www.linkedin.com/in/tanyareilly/)
+
+*Book: [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) by [Tanya Reilly](https://www.linkedin.com/in/tanyareilly/)*
+
+![Book cover](https://learning.oreilly.com/library/cover/9781098118723/250w/)
 
 
 ## Synopsis
