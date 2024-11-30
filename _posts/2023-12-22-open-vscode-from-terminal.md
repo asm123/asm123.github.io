@@ -2,7 +2,7 @@
 layout: post
 date: 2023-12-22
 title: Open Visual Studio Code from terminal (macOS)
-tags: vscode shell tutorial
+tags: programming
 last_updated: 2023-12-22
 status: evergreen
 ---

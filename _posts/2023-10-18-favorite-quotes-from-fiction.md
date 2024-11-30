@@ -2,7 +2,7 @@
 layout: post
 title: Favorite quotes from fiction
 date: 2023-10-18
-tags: fiction quotes
+tags: books
 last_updated: 2023-10-20
 status: budding
 ---

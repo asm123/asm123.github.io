@@ -3,7 +3,7 @@ layout: post
 title: Book notes - Good to Great - Jim Collins
 date: 2023-10-24
 permalink: /good-to-great
-tags: book-notes business non-fiction
+tags: books
 last_updated: 2024-04-27
 status: budding
 ---

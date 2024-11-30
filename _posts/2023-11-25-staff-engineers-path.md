@@ -3,7 +3,7 @@ layout: post
 date: 2023-11-25
 title: Book notes - The Staff Engineer's Path
 permalink: /staff-engineers-path
-tags: book-notes tech-leadership staff-engineer career
+tags: books leadership
 last_updated: 2024-11-19
 status: budding
 ---

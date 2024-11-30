@@ -2,19 +2,15 @@
 layout: post
 title:  "Creating a website with GitHub Pages"
 date: 2023-10-14
-tags: tutorial dev github-pages
+tags: programming
 last_updated: 2024-01-28
 status: budding
 ---
 
 A tutorial for setting up your own website using GitHub Pages.
-- [Install Jekyll](#install-jekyll)
-    - [Install Homebrew](#install-homebrew)
-    - [Install ruby](#install-ruby)
-    - [Install Jekyll gem](#install-jekyll-gem)
-- [Create a GitHub repo](#create-a-github-repo)
-- [Create demo site](#create-demo-site)
-- [Run the website locally](#run-the-website-locally)
+- [Install Homebrew](#install-homebrew)
+- [Install ruby](#install-ruby)
+- [Install Jekyll gem](#install-jekyll-gem)
 
 
 

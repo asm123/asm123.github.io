@@ -2,7 +2,7 @@
 layout: post
 date: 2023-11-01
 title: "Podcast notes - AI Fundamentals: Benchmarks 101"
-tags: podcast-notes ai
+tags: podcast ai
 last_updated: 2023-11-04
 status: evergreen
 ---

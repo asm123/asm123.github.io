@@ -2,7 +2,7 @@
 layout: post
 date: 2023-12-24
 title: Fun hobbies with meaningful impact on community!
-tags: random community tech-for-good
+tags: misc
 last_updated: 2023-12-24
 status: budding
 ---

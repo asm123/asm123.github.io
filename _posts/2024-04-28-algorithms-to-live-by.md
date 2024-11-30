@@ -3,7 +3,7 @@ layout: post
 date: 2024-04-28
 permalink: /algorithms-to-live-by
 title: "Book notes - \"Algorithms to Live By: The Computer Science of Human Decisions\""
-tags: book-notes science
+tags: books
 last_updated: 2024-05-12
 status: budding
 ---

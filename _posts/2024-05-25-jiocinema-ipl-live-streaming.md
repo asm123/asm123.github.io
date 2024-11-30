@@ -2,7 +2,7 @@
 layout: post
 date: 2024-05-25
 title: How JioCinema live streams IPL to 20 million concurrent devices - Notes from @AsliEngineering podcast
-tags: system-design podcast-notes
+tags: system-design podcast
 last_updated: 2024-05-25
 status: evergreen
 ---

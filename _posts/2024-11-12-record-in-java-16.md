@@ -2,7 +2,7 @@
 layout: post
 date: 2024-11-12
 title: Record in Java 16
-tags: programming til java
+tags: programming
 last_updated: 2024-11-12
 status: budding
 ---

@@ -1,4 +1,4 @@
 ---
-tag-name: hobbies
+tag-name: misc
 layout: tags
 ---

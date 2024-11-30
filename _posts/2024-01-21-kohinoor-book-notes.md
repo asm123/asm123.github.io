@@ -2,7 +2,7 @@
 layout: post
 date: 2024-01-21
 title: Book notes - "Kohinoor - The Story of the World’s Most Infamous Diamond"
-tags: book-notes history
+tags: books
 last_updated: 2024-01-21
 status: budding
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Podcast notes - From Awkward to Agonizing - Mastering Difficult Conversations
 date: 2023-10-19
-tags: podcast-notes leadership
+tags: podcast leadership
 status: evergreen
 ---
 

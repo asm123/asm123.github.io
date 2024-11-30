@@ -2,7 +2,7 @@
 layout: post
 date: 2023-11-03
 title: Get current date and time in bash
-tags: dev programming bash shell
+tags: programming
 last_updated:
 ---
 

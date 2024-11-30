@@ -1,13 +1,22 @@
 ---
 layout: post
-title: Intelligent articles
+title: Intelligent websites and articles
 date: 2023-10-18
-tags: thinking links
+tags: misc
 last_updated: 2023-10-29
 status: budding
 ---
 
-## [Farnam Street](https://fs.blog/)
+## Websites
+
+A collection of websites to follow to improve thinking, reasoning and decision making:
+
+* [Farnam Street](https://fs.blog/)
+* [LessWrong](https://www.lesswrong.com/)
+
+## Articles
+
+### [Farnam Street](https://fs.blog/)
 
 - [Why You Should Stop Reading News](https://fs.blog/stop-reading-news/)
 

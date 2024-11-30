@@ -2,7 +2,7 @@
 layout: post
 date: 2023-12-24
 title: 
-tags: career quotes
+tags: leadership
 last_updated: 2024-01-06
 status: budding
 ---
