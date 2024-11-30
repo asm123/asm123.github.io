@@ -1,4 +1,4 @@
 ---
-tag-name: ai
+tag-name: ai-ml
 layout: tags
 ---
