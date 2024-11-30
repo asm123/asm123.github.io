@@ -7,14 +7,14 @@ layout: default
         <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
         
         <p class="post-meta">
-            Status: <span> {% if page.status == "evergreen" %} 🪴 {% else %} 🌿 {% endif %} </span> <span style="color: black;">|</span>
+            <span> {% if page.status == "evergreen" %} 🪴 {% else %} 🌿 {% endif %} </span> <span style="color: black;">|</span>
             <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
                 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-
+                💦 
                 {%- if page.last_updated -%}
-                Tended: {{ page.last_updated | date: date_format }}
+                    {{ page.last_updated | date: date_format }}
                 {%- else -%}
-                Last updated: {{ page.date | date: date_format }}
+                    {{ page.date | date: date_format }}
                 {%- endif -%} 
             </time>
                 <span style="color: black;">|</span>
@@ -33,7 +33,7 @@ layout: default
 
         <p class="post-meta" style="padding-bottom: 3%">
             <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-                Planted: {{ page.date | date: date_format }}
+                🌱 {{ page.date | date: date_format }}
             </time>
         </p>
         
