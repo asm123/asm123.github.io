@@ -10,20 +10,22 @@ layout: default
             <span> {% if page.status == "evergreen" %} 🪴 {% else %} 🌿 {% endif %} </span> <span style="color: black;">|</span>
             <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
                 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-                💦 
-                {%- if page.last_updated -%}
-                    {{ page.last_updated | date: date_format }}
-                {%- else -%}
-                    {{ page.date | date: date_format }}
-                {%- endif -%} 
+                <span>💦</span>
+                <span>
+                    {%- if page.last_updated -%}
+                        {{ page.last_updated | date: date_format }}
+                    {%- else -%}
+                        {{ page.date | date: date_format }}
+                    {%- endif -%}
+                </span>
             </time>
                 <span style="color: black;">|</span>
                 <span>
-                {% for tag in page.tags %}
-                  {% capture tag_name %}{{ tag | upcase }}{% endcapture %}
-                  <a href="/tags/{{ tag_name }}" rel="category tag"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-                {% endfor %}
-              </span>
+                    {% for tag in page.tags %}
+                    {% capture tag_name %}{{ tag | upcase }}{% endcapture %}
+                    <a href="/tags/{{ tag_name }}" rel="category tag"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+                    {% endfor %}
+                </span>
     </header>
 
     <div id="flex">
