@@ -3,7 +3,7 @@ layout: post
 date: 2023-12-24
 title: 
 tags: leadership
-last_updated: 2024-01-06
+last_updated: 2024-11-30
 status: budding
 ---
 
@@ -20,4 +20,8 @@ status: budding
 -- Reilly, Tanya. [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/). O'Reilly Media. Kindle Edition.
 
 ---
+<br>
+"My first piece of advice to engineers is that they should avoid pattern matching in ways that lead them towards work they don’t enjoy. ... If you’re more focused on hitting Staff than on setting yourself up to do work that energizes you, it’s easy to end up stuck in a role you don’t want."
+
+-- Michelle Bu. [StaffEng.com](https://staffeng.com/stories/michelle-bu/)
 
