@@ -23,7 +23,7 @@ layout: default
                 <span>
                     {% for tag in page.tags %}
                     {% capture tag_name %}{{ tag | upcase }}{% endcapture %}
-                    <a href="/tags/{{ tag_name }}" rel="category tag"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+                    <a href="/tags/{{ tag_name }}" rel="category tag"><code class="highligher-rouge"><small><nobr>{{ tag_name }}</nobr></small></code>&nbsp;</a>
                     {% endfor %}
                 </span>
     </header>

@@ -37,6 +37,6 @@ Wait what? A program can even modify itself while running? According to [this St
 - Programming transforms data, metaprogramming transforms programs to code. In C++, we use _template specializations_ to do this.
 - A metaprogram that looks at its own structure is Reflection.
 - C++ template metaprogram = compile-time reflection
-- Template specialization - partial and full. Read [here](https://en.cppreference.com/w/cpp/language/partial_specialization)
+- Template specialization - partial and full. Read [here](https://en.cppreference.com/w/cpp/language/partial_specialization).
   - Google "class template argument deduction" for details
 - To read: `type_traits` [here](https://www.internalpointers.com/post/quick-primer-type-traits-modern-cpp)
