@@ -26,4 +26,4 @@ status: budding
 
 ## Bedtime - for falling asleep
 
-* [Office Ladies](https://officeladies.com/episodes). Adding this podcast to bedtime does not mean it is boring. It is quite interesting, on the contrary. Just that, I tend to fall asleep peacefully while listening to these episodes. It may as well be true any other podcast, this is my pick to fall asleep to.
+* [Office Ladies](https://officeladies.com/episodes). Adding this podcast to bedtime does not mean it is boring. It is quite interesting, on the contrary. Just that, I tend to fall asleep peacefully while listening to these episodes. It may as well be true for any other podcast, this is my pick to fall asleep to.
