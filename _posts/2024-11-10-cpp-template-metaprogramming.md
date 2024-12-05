@@ -3,15 +3,111 @@ layout: post
 date: 2024-11-10
 title: C++ Template Metaprogramming
 tags: programming
-last_updated: 2024-11-10
+last_updated: 2024-12-05
 status: budding
 ---
 
-Recently, I heard the term "template metaprogramming" from someone at work. I had no clue about what it was. So I started reading about it. These are the notes for the learning.
+Recently, I heard the term "template metaprogramming" from someone at work. I had no clue about what it was. So I started reading about it. These are the notes from some very light reading.
 
-## What is Metaprogramming
+## Templates in C++
 
-I admit I had no idea what metaprogramming was either. Let's start there.
+> References
+> - [cppreference](https://en.cppreference.com/w/cpp/language/templates)
+> - [Wikipedia](https://en.wikipedia.org/wiki/Template_(C%2B%2B))
+> - [Microsoft Learn](https://learn.microsoft.com/en-us/cpp/cpp/templates-cpp)
+
+Template is a parameterized construct that generates a type or a function at _compile_ time based on the arguments provided by the user for the template parameters.
+
+A template can be one of the following:
+- **function template** - behaves like a function, template can have arguments of many different types
+
+  Syntax:
+  ```cpp
+  // With typename
+  template <typename identifier> declaration;
+  // With class - behaves same as typename
+  template <class identifier> declaration;
+  ```
+
+  Example:
+  ```cpp
+  template <typename T>
+  int min(T a, T b) {
+    return a < b ? a : b;
+  }
+
+  int main() {
+    // T = int, automatically deduced
+    std::cout << std::min(3, 5) << std::endl;
+    // T = double, automatically deduced
+    std::cout << std::min(3.0, 5.0) << std::endl;
+    // T = double, cannot be deduced automatically, 
+    // needs to be mentioned explicitly
+    std::cout << std::min<double>(3.0, 5) << std::endl;
+  }
+  ```
+
+- **class template** - provides specification for generating classes based on parameters
+  
+  Syntax:
+  ```cpp
+  template <class T>
+  class className {
+    T methodName(T arg);
+  };
+  ```
+
+  Example:
+  ```cpp
+  template <class K, class V> 
+  class Map {
+    V getValue(K k);
+  };
+  ```
+
+According to [cppreference.com](https://en.cppreference.com/w/cpp/language/templates), there are a few more types of templates. Understanding function and class templates suffice for now.
+
+## Template specializations
+
+Defining special behavior of a template for a particular data type is template specialization.
+- Full specialization: filling in all the parameters for the template.
+- Partial specialization: defining special behavior for only some of the parameters of the template.
+
+Example:
+```cpp
+// Template definition
+template <typename K, typename V>
+class Map {
+  Map() {
+    std::cout << "Map" << std::endl;
+  }
+}
+
+// Partial specialization
+template<int, typename V>
+class Map<int, V> {
+  Map() {
+    std::cout << "Map<int, V>" << std::endl;
+  }
+}
+
+// Full specialization
+template<int, std::string V>
+class Map<int, std::string> {
+  Map() {
+    std::cout << "Map<int, std::string>" << std::endl;
+  }
+}
+
+// Use
+int main() {
+  auto defined = Map<float, bool>{}; // Map
+  auto partial = Map<int, bool>{}; // Map<int, V>
+  auto full = Map<int, std::string>{}; // Map<int, std::string>
+}
+```
+
+## Metaprogramming
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Metaprogramming),
 
@@ -32,11 +128,69 @@ Wait what? A program can even modify itself while running? According to [this St
 >
 > are metaprograms.
 
-[This playlist](https://youtube.com/playlist?list=PLWxziGKTUvQFIsbbFcTZz7jOT4TMGnZBh) explains it in detail. Some notes:
+- Programming transforms data, metaprogramming transforms programs to code. A metaprogram that looks at its own structure is Reflection.
 
-- Programming transforms data, metaprogramming transforms programs to code. In C++, we use _template specializations_ to do this.
-- A metaprogram that looks at its own structure is Reflection.
-- C++ template metaprogram = compile-time reflection
-- Template specialization - partial and full. Read [here](https://en.cppreference.com/w/cpp/language/partial_specialization).
-  - Google "class template argument deduction" for details
-- To read: `type_traits` [here](https://www.internalpointers.com/post/quick-primer-type-traits-modern-cpp)
+[This StackOverflow answer](https://stackoverflow.com/questions/980492/what-is-metaprogramming) explains it with a real-world example.
+- More commonly, metaprogramming is used for types rather than values.
+  - We are manipulating types, not values.
+  - It is used to facilitate generic programming, e.g. [iterators](https://gcc.gnu.org/onlinedocs/libstdc++/libstdc++-api-4.5/a00906_source.html).
+
+## Template metaprograms
+
+### if-else
+
+> Reference: [Todd Veldhuizen](https://www.cs.rpi.edu/~musser/design/blitz/meta-art.html)
+
+
+```cpp
+template <bool C>
+class _name {};
+
+// true case
+class _name<true> {
+  public:
+    static inline void f() { statement1; }
+};
+
+// false case
+class _name<false> {
+  public:
+    static inline void f() { statement2; } // false
+};
+
+// call
+_name<condition>::f();
+```
+
+Remember _compile-time_! The `condition` must be known at compile-time.
+
+### for loop
+
+> Reference: [Niko Savas](https://medium.com/@savas/template-metaprogramming-compile-time-loops-over-class-methods-a243dc346122)
+
+```cpp
+// Template definition
+template <int N>
+void forLoop() {
+  std::cout << N << std::endl;
+  
+  forLoop<N-1>();
+}
+
+// Partial specialization for the end of loop
+template<>
+void forLoop<0>() {
+  // Loop has finished, do nothing
+  std::cout << "Done!" << std::endl;
+}
+```
+
+## When to use?
+
+- Code needs to be generic
+- Computation needs to be at compile-time for better run-time performance
+
+## Further study
+
+* [BitsOfQ playlist on C++ template metaprogramming](https://youtube.com/playlist?list=PLWxziGKTUvQFIsbbFcTZz7jOT4TMGnZBh&feature=shared)
+* TODO: Add some code snippets for relatable examples.
