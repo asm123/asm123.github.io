@@ -25,6 +25,7 @@ permalink: /bookshelf
 * **Personal development**
   * [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://jamesclear.com/atomic-habits) - James Clear (re-reading)
   * [Why Has Nobody Told Me This Before?](https://www.goodreads.com/book/show/58536046-why-has-nobody-told-me-this-before) - Julie Smith
+  * [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.goodreads.com/book/show/3063393-pragmatic-thinking-and-learning) - Andy Hunt
 
 ### 2024
 
