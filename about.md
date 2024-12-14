@@ -14,7 +14,7 @@ I always wanted to have a personal website to curate my learnings, thoughts, lik
 
 Then serendipitously, I came across two wonderful articles mid-2023 that changed my mind. First was the concept of digital gardens, specifically [this article](https://maggieappleton.com/garden-history) by Maggie Appleton. Soon afterwards, I landed on swyx's [Learn In Public](https://www.swyx.io/learn-in-public) rule.
 
-This wonderful [github repo of digital gardens]((https://github.com/lyz-code/best-of-digital-gardens)) kicked away any hesitation still lurking around. Referring to a few digital gardens from this collection, I managed to build and nurture this little patch of land on the Internet.
+This wonderful [github repo of digital gardens](https://github.com/lyz-code/best-of-digital-gardens) kicked away any hesitation still lurking around. Referring to a few digital gardens from this collection, I managed to build and nurture this little patch of land on the Internet.
 
 ## What goes here?
 
