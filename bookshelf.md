@@ -13,9 +13,6 @@ permalink: /bookshelf
 * **Leadership**
   * [Staff Engineer: Leadership Beyond the Management Track](https://staffeng.com/book/) - Will Larson
 
-* **Memoir**
-  * [The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI](https://www.goodreads.com/book/show/144405196-the-worlds-i-see) - Fei-Fei Li
-
 * **Science**
   * [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) - Brian Christian, Tom Griffiths
 
@@ -37,6 +34,7 @@ permalink: /bookshelf
   * [What Do You Care What Other People Think?: Further Adventures of a Curious Character](https://www.goodreads.com/book/show/35167718-what-do-you-care-what-other-people-think) - Richard Feynman, Ralph Leighton - ⭐⭐⭐⭐
   * [Permanent Record](https://www.goodreads.com/book/show/51801760-permanent-record) - Edward Snowden - ⭐️⭐️⭐️⭐️
   * [Bossypants](https://www.goodreads.com/book/show/9418327-bossypants) - Tina Fey - ⭐⭐
+  * [The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI](https://www.goodreads.com/book/show/144405196-the-worlds-i-see) - Fei-Fei Li - ⭐️⭐️⭐️⭐️⭐️
 
 * **History**
   * [Kohinoor: The Story of the World’s Most Infamous Diamond](https://www.goodreads.com/book/show/33391999-kohinoor) - William Dalrymple, Anita Anand - [notes](/2024/01/21/kohinoor-book-notes) - ⭐⭐⭐⭐⭐
