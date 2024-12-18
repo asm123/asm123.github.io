@@ -16,9 +16,6 @@ permalink: /bookshelf
 * **Science**
   * [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) - Brian Christian, Tom Griffiths
 
-* **Fiction**
-  * [Bulls, Bears and Other Beasts](https://www.goodreads.com/en/book/show/32716919) - Santosh Nair
-
 * **Personal development**
   * [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://jamesclear.com/atomic-habits) - James Clear (re-reading)
   * [Why Has Nobody Told Me This Before?](https://www.goodreads.com/book/show/58536046-why-has-nobody-told-me-this-before) - Julie Smith
