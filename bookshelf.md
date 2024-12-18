@@ -49,6 +49,7 @@ permalink: /bookshelf
   * [Kim Jiyoung, Born 1982](https://www.goodreads.com/book/show/46041199-kim-jiyoung-born-1982) - Cho Nam-Joo - ⭐️⭐️⭐️
   * [Lessons in Chemistry](https://www.goodreads.com/book/show/206305528-lessons-in-chemistry) - Bonnie Garmus - ⭐️⭐️⭐️⭐️
   * [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and-tomorrow) - Gabrielle Zevin - ⭐️⭐️⭐️⭐️
+  * [Bulls, Bears and Other Beasts](https://www.goodreads.com/en/book/show/32716919) - Santosh Nair - ⭐️⭐️⭐️⭐️
 
 
 * **Personal development**
