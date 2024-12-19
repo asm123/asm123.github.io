@@ -32,7 +32,7 @@ collections:
 
 
 # Build settings
-theme: just-the-docs
+theme: minima
 plugins:
   - jekyll-feed
 
