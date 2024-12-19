@@ -4,8 +4,6 @@ title: About
 permalink: /about
 ---
 
-## Me
-
 Hi there!
 
 I am Asmita and this is my little corner on the Internet. I am a software engineer, originally from India and currently living in Switzerland.
@@ -32,6 +30,6 @@ I love writing in Markdown. This site is a simple static website created using G
 
 This website is really for my own learning and as such, I do not care if anyone ever or never visits it. There are no cookies 🍪, no trackers 🐾, no visitor analytics 📉. If you are here, feel free to wander about as you please. 
 
-But do remember, pretty much everything around here is just a seed planted to someday grow into a tree 😊
+But do remember, pretty much everything around here is just a seed planted to someday grow into a tree or wither away 😊
 
 Ciao!
