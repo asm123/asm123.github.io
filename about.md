@@ -26,6 +26,16 @@ And finally, [Micro](/micro) is my chaotic and yet calming corner to post random
 
 I love writing in Markdown. This site is a simple static website created using Github pages and Jekyll, which supports writing in Markdown. I wrote a [small tutorial](/2023/10/14/website-creation.html) for how-to. There is a [wishlist / todo list](/2023/12/24/site-todos.html) for the website and I try to make some progress on those once in a while.
 
+## Notations
+
+🌱 - first version of the note
+
+🌿 - updated at least once since the first version
+
+🌳 - complete, no major updates expected
+
+🍃 - micro
+
 ## Tracking
 
 This website is really for my own learning and as such, I do not care if anyone ever or never visits it. There are no cookies 🍪, no trackers 🐾, no visitor analytics 📉. If you are here, feel free to wander about as you please. 
