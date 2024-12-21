@@ -4,7 +4,7 @@ date: 2024-01-21
 title: Book notes - "Kohinoor - The Story of the World’s Most Infamous Diamond"
 tags: books
 last_updated: 2024-01-21
-status: init
+status: final
 ---
 
 Book: [Kohinoor: The Story of the World’s Most Infamous Diamond](https://www.goodreads.com/book/show/33391999-kohinoor) - William Dalrymple, Anita Anand
@@ -69,9 +69,3 @@ Book: [Kohinoor: The Story of the World’s Most Infamous Diamond](https://www.g
 ## Notes beyond the book
 
 * Present day Queen Camilla was crowned with Queen Mary's crown without the Kohinoor diamond.
-
----
-
-## Book review
-
-TODO
