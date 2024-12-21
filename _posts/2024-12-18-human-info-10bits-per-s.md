@@ -1,10 +1,10 @@
 ---
 layout: post
 date: 2024-12-18
-title: "[WIP] Notes - The unbearable slowness of being: Why do we live at 10 bits/s?"
+title: "Notes - The unbearable slowness of being: Why do we live at 10 bits/s?"
 tags: neuroscience
 last_updated: 2024-12-18
-status: 🌱
+status: init
 ---
 
 Source: [The Unbearable Slowness of Being: Why do we live at 10 bits/s?](https://arxiv.org/abs/2408.10234v2) - arxiv, found on [Hacker News](https://news.ycombinator.com/item?id=42449602)
@@ -41,3 +41,7 @@ S_i = sifting number
 
 - One human cone photoreceptor can transmit information at `270 bits/s`.
 - One human eye has `6 million` cone photoreceptors = `6*10^6 * 270 bits/s = 162 * 10^7 bits/s  = 1.6 * 10^9 bits/s = 1.6 gigbits/s`.
+
+- Memory is stored in the strengths of synaptic connections and to some extent in the properties of individual neurons.
+  - Estimated capacity of brain = number of synapses * dynamic range of synaptic strength = 10^14 * 5 bits = 62.5 TB
+    - > Note: Authors computed this number as ~50 TB. [Quick Google search](https://www.google.com/search?q=capacity+of+brain+in+gb) tells me it is 2.5 million GB = 2.5 * 10^6 * 10^9 bytes = 2500 ^ 10^12 bytes = 2500 TB. This is a very large number. I am now losing interest in reading this article any further.
