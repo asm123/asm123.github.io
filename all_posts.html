@@ -6,28 +6,29 @@ permalink: /all
 
 <h1 style="text-align:center;">All Posts ({{ site.posts.size }})</h1>
 
-<table>
-    {% for post in site.posts %}
-    {% if post.tags contains "micro"%}
-    {% continue %}
-    {% endif %}
 
-    <tr>
-        <td>
-            {% if post.status == "final" %}
-            🌳
+    {% for post in site.posts %}
+        {% if post.tags contains "micro"%}
+            {% continue %}
+        {% endif %}
+        <p>
+            {% if post.status == "final" %} 
+                🌳  
+            {% elsif post.status == "update" %} 
+                🌿
             {% else %}
-            🌿
+                🌱
             {% endif %}
             <a href="{{ post.url }}">{{ post.title }}</a>
             🌱
-            <small style="color: grey;"> {{ post.date | date_to_string }}
+            <small style="color: grey;"> 
+                {{ post.date | date_to_string }}
                 {% if post.last_updated %}
-                {% assign last_updated_str = post.last_updated | date_to_string %}
-                {% assign original_date_str = post.date | date_to_string %}
-                {% if last_updated_str != original_date_str %}
-                    💦 {{ last_updated_str }}
-                {% endif %}
+                    {% assign last_updated_str = post.last_updated | date_to_string %}
+                    {% assign original_date_str = post.date | date_to_string %}
+                    {% if last_updated_str != original_date_str %}
+                        🌿 {{ last_updated_str }}
+                    {% endif %}
                 {% endif %}
             </small>
             {% for tag in post.tags %}
@@ -35,8 +36,7 @@ permalink: /all
                     <code class="highligher-rouge" style="font-size: x-small;"><nobr>{{ tag | upcase }}</nobr></code>
                 </a>
             {% endfor %}
-        </td>
-    <tr>
-        {% endfor %}
-</table>
+        </p>
+        
+    {% endfor %}
 </p>

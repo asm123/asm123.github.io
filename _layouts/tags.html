@@ -6,49 +6,58 @@ layout: default
     <h2>
         <code class="highligher-rouge" style="font-weight: bold;"><nobr>#{{ page.tag-name | upcase }}</nobr></code>&nbsp;
     </h2>
+</div>
 
-    <table>
+<div>
+    {% if page.tag-name == "micro" %}
         {% for post in site.posts %}
-        {% if post.tags contains page.tag-name %}
-        {% if post.tags contains "micro" %}
-            <table class="feed">
-                <tr>
-                    <td style="width: 20%; vertical-align: top;">
-                        <span>🍃</span>
-                        <small style="color: grey;"> {{ post.date | date_to_string }}</small>
-                    </td>
-                    <td>
-                        {{ post.content }}
-                    </td>
-                </tr>
-            </table>
-            {% continue %}
-        {% endif %}
-
-        <tr>
-            <td>
-                {% if post.status == "final" %} 
-                    🌳  
-                {% elsif post.status == "update" %} 
-                    🌿
-                {% else %}
-                    🌱
-                {% endif %}
-                <a href="{{ post.url }}">{{ post.title }}</a>
-                🌱
-                <small style="color: grey;"> {{ post.date | date_to_string }}
-                    {% if post.last_updated %}
-                    {% assign last_updated_str = post.last_updated | date_to_string %}
-                    {% assign original_date_str = post.date | date_to_string %}
-                    {% if last_updated_str == original_date_str %}
-                    {% continue %}
-                    {% endif %}
-                    🌿 {{ last_updated_str }}
-                    {% endif %}
-                </small>
-            </td>
-        <tr>
+            {% if post.tags contains "micro" %}
+                <table>
+                    <tr>
+                        <td style="width: 20%; vertical-align: top;">
+                            <span>🍃</span>
+                            <small style="color: grey;"> 
+                                {{ post.date | date_to_string }}
+                            </small>
+                        </td>
+                        <td>
+                            {{ post.content }}
+                        </td>
+                    </tr>
+                </table>
             {% endif %}
+        {% endfor %}
+    {% else %}
+        
+            {% for post in site.posts %}
+                {% if post.tags contains page.tag-name %}
+                    {% if post.tags contains "micro" %}
+                        {% continue %}
+                    {% endif %}
+
+                    <p>
+                        {% if post.status == "final" %} 
+                            🌳  
+                        {% elsif post.status == "update" %} 
+                            🌿
+                        {% else %}
+                            🌱
+                        {% endif %}
+                        <a href="{{ post.url }}">{{ post.title }}</a>
+                        🌱
+                        <small style="color: grey;"> 
+                            {{ post.date | date_to_string }}
+                            {% if post.last_updated %}
+                                {% assign last_updated_str = post.last_updated | date_to_string %}
+                                {% assign original_date_str = post.date | date_to_string %}
+                                {% if last_updated_str != original_date_str %}
+                                    🌿 {{ last_updated_str }}
+                                {% endif %}
+                            {% endif %}
+                        </small>
+                    </p>
+                {% endif %}
             {% endfor %}
-    </table>
+    {% endif %}
+    
 </div>
