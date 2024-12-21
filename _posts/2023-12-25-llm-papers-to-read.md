@@ -4,7 +4,7 @@ date: 2023-12-25
 title: LLM paper reading list
 tags: ai-ml
 last_updated: 2023-12-25
-status: budding
+status: init
 ---
 
 * [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601) by Google

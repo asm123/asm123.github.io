@@ -4,7 +4,7 @@ date: 2024-11-12
 title: Record in Java 16
 tags: programming
 last_updated: 2024-11-12
-status: budding
+status: init
 ---
 
 Record classes are special types of classes, [introduced in Java 16 back in 2021](https://openjdk.org/jeps/395). Record classes eliminate the need of creating classes for immutable data and having to add boilerplate code for `equals()`, `hashCode()`, `toString()`.

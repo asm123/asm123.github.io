@@ -4,7 +4,7 @@ title: Intelligent websites and articles
 date: 2023-10-18
 tags: misc
 last_updated: 2023-10-29
-status: budding
+status: init
 ---
 
 ## Websites

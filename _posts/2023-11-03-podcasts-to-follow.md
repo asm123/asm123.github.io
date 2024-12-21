@@ -4,7 +4,7 @@ date: 2023-11-03
 title: Podcasts to follow
 tags: podcast
 last_updated: 2024-12-06
-status: budding
+status: init
 ---
 
 ## Engineering Leadership

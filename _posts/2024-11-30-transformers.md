@@ -4,7 +4,7 @@ date: 2024-11-30
 title: Basics of Transformers
 tags: ai-ml
 last_updated: 2024-11-30
-status: budding
+status: init
 ---
 
 References:

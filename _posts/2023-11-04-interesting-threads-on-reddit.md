@@ -4,7 +4,7 @@ date: 2023-11-04
 title: Interesting threads on reddit
 tags: misc
 last_updated: 2024-12-14
-status: budding
+status: init
 ---
 
 * [Creative/ interesting examples of developers' personal websites](https://www.reddit.com/r/webdev/comments/86ewbm/creative_interesting_examples_of_developers/)

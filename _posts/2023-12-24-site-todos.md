@@ -4,7 +4,7 @@ date: 2023-12-24
 title: TODOs for this site
 tags: misc
 last_updated: 2024-11-30
-status: budding
+status: init
 ---
 
 - [ ] Add pagination

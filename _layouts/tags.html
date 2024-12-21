@@ -27,11 +27,14 @@ layout: default
 
         <tr>
             <td>
-                {% if post.status == "evergreen" %}
-                🪴
+                {% if post.status == "final" %} 
+                    🌳  
+                {% elsif post.status == "update" %} 
+                    🌿
                 {% else %}
-                🌿
-                {% endif %}<a href="{{ post.url }}">{{ post.title }}</a>
+                    🌱
+                {% endif %}
+                <a href="{{ post.url }}">{{ post.title }}</a>
                 🌱
                 <small style="color: grey;"> {{ post.date | date_to_string }}
                     {% if post.last_updated %}
@@ -40,7 +43,7 @@ layout: default
                     {% if last_updated_str == original_date_str %}
                     {% continue %}
                     {% endif %}
-                    💦 {{ last_updated_str }}
+                    🌿 {{ last_updated_str }}
                     {% endif %}
                 </small>
             </td>

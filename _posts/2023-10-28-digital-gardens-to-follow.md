@@ -4,7 +4,7 @@ title: Some digital gardens for inspiration
 date: 2023-10-28
 tags: misc
 last_updated: 2024-12-05
-status: budding
+status: init
 ---
 
 * [Chuck Grimmett](https://cagrimmett.com/)

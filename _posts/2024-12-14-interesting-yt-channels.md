@@ -4,7 +4,7 @@ date: 2024-12-14
 title: Interesting YouTube channels
 tags: misc
 last_updated: 2024-12-14
-status: budding
+status: init
 ---
 
 [Computerphile](https://www.youtube.com/@Computerphile)

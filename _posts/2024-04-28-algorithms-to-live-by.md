@@ -5,7 +5,7 @@ permalink: /algorithms-to-live-by
 title: "Book notes - \"Algorithms to Live By: The Computer Science of Human Decisions\""
 tags: books
 last_updated: 2024-05-12
-status: budding
+status: init
 ---
 
 Book: [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)

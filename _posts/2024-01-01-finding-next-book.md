@@ -4,7 +4,7 @@ date: 2024-01-01
 title: Where to find next book to read
 tags: books
 last_updated: 2024-01-01
-status: budding
+status: init
 ---
 
 * Economics:

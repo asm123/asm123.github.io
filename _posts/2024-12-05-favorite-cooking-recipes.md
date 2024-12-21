@@ -4,7 +4,7 @@ date: 2024-12-05
 title: Favorite cooking recipes
 tags: misc
 last_updated: 2024-12-05
-status: budding
+status: init
 ---
 
 Recipes that I look up frequently:

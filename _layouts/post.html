@@ -4,27 +4,23 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
     <header class="post-header">
-        <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+        <h1 class="post-title p-name" itemprop="name headline">
+            {% if page.status == "final" %} 
+                    🌳  
+                {% elsif page.status == "update" %} 
+                    🌿
+                {% else %}
+                    🌱
+                {% endif %}
+            {{ page.title | escape }}
+        </h1>
         
         <p class="post-meta">
-            <span> {% if page.status == "evergreen" %} 🪴 {% else %} 🌿 {% endif %} </span> <span style="color: black;">|</span>
-            <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-                <span>💦</span>
-                <span>
-                    {%- if page.last_updated -%}
-                        {{ page.last_updated | date: date_format }}
-                    {%- else -%}
-                        {{ page.date | date: date_format }}
-                    {%- endif -%}
-                </span>
-            </time>
-                <span style="color: black;">|</span>
-                <span>
-                    {% for tag in page.tags %}
-                    <a href="/tags/{{ tag }}" rel="category tag"><code class="highligher-rouge"><small><nobr>{{ tag | upcase }}</nobr></small></code>&nbsp;</a>
-                    {% endfor %}
-                </span>
+            <span>
+                {% for tag in page.tags %}
+                    <a href="/tags/{{ tag }}" rel="category tag"><code class="highligher-rouge"><nobr>{{ tag | upcase }}</nobr></code>&nbsp;</a>
+                {% endfor %}
+            </span>
     </header>
 
     <div id="flex">
@@ -34,18 +30,18 @@ layout: default
 
         <p class="post-meta" style="padding-bottom: 3%">
             <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-                🌱 {{ page.date | date: date_format }}
+                🌱 <small>{{ page.date | date_to_string }}</small>
             </time>
+            {% if page.last_updated %}
+                {% assign last_updated_str = page.last_updated | date_to_string %}
+                {% assign original_date_str = page.date | date_to_string %}
+                {% if last_updated_str != original_date_str %}
+                    <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                        🌿 <small>{{ page.last_updated | date_to_string }}</small>
+                    </time>
+                {% endif %}
+            {% endif %}
         </p>
-        
     </div>
-
-
-    <!--End mc_embed_signup-->
-
-    {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-    {%- endif -%}
-
     <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

@@ -4,7 +4,7 @@ date: 2024-12-18
 title: "[WIP] Notes - The unbearable slowness of being: Why do we live at 10 bits/s?"
 tags: neuroscience
 last_updated: 2024-12-18
-status: budding
+status: 🌱
 ---
 
 Source: [The Unbearable Slowness of Being: Why do we live at 10 bits/s?](https://arxiv.org/abs/2408.10234v2) - arxiv, found on [Hacker News](https://news.ycombinator.com/item?id=42449602)
@@ -26,7 +26,11 @@ How to measure how much information a neuron conveys?
        - Mutual information = total entropy minus noise entropy. In this context, distinguishing actions that matter for the task from those that don't.
 
 
-> S_i = sifting number = ratio of sensory information rate to behavioural throughput = 10^9 / 10 = 10^8
+```
+S_i = sifting number 
+    = ratio of sensory information rate to behavioural throughput 
+    = 10^9 / 10 = 10^8
+```
 
 - This may be the largest unexplained number in brain science.
 

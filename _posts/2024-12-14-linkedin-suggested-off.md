@@ -4,7 +4,7 @@ date: 2024-12-14
 title: Turn off Suggested posts in LinkedIn feed
 tags: misc
 last_updated: 2024-12-14
-status: evergreen
+status: final
 ---
 
 ### TL;DR

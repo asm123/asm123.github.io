@@ -5,7 +5,7 @@ date: 2023-10-24
 permalink: /good-to-great
 tags: books
 last_updated: 2024-04-27
-status: budding
+status: 🌿
 ---
 
 * Book: [Good to Great: Why Some Companies Make the Leap... and Others Don't](https://www.goodreads.com/en/book/show/76865)
