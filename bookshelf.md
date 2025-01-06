@@ -4,11 +4,16 @@ title: Bookshelf
 permalink: /bookshelf
 ---
 
-### Currently reading
+### 2025
+
+#### Currently Reading
 
 * **Technical**
   * [System Design Interview - An Insider's Guide](https://www.google.co.in/books/edition/System_Design_Interview_An_Insider_s_Gui/b_mUzQEACAAJ) - Alex Xu
   * [AI and Machine Learning for Coders](https://learning.oreilly.com/library/view/ai-and-machine/9781492078180/) - Laurence Moroney
+
+* **Memoir**
+  * [Einstein: His Life and Universe](https://www.goodreads.com/book/show/10884.Einstein) - Walter Isaacson
 
 * **Leadership**
   * [Staff Engineer: Leadership Beyond the Management Track](https://staffeng.com/book/) - Will Larson
@@ -18,8 +23,14 @@ permalink: /bookshelf
 
 * **Personal development**
   * [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://jamesclear.com/atomic-habits) - James Clear (re-reading)
-  * [Why Has Nobody Told Me This Before?](https://www.goodreads.com/book/show/58536046-why-has-nobody-told-me-this-before) - Julie Smith
   * [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.goodreads.com/book/show/3063393-pragmatic-thinking-and-learning) - Andy Hunt
+
+#### Abandoned
+
+* **Personal development**
+  * [Why Has Nobody Told Me This Before?](https://www.goodreads.com/book/show/58536046-why-has-nobody-told-me-this-before) - Julie Smith
+    * I started reading / listening to it during a rough patch last year, but did not continue it for long. Will perhaps come back to it sometime later.
+
 
 ### 2024
 
@@ -63,6 +74,7 @@ permalink: /bookshelf
 * **Memoir**
   * [Under the Tuscan Sun: At Home in Italy](https://www.goodreads.com/book/show/480479.Under_the_Tuscan_Sun) - Frances Mayes
     * Did not like the style of writing. Felt incoherent. Not willing to pick it up back again.
+
 
 ### 2023
 
