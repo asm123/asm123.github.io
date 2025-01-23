@@ -10,7 +10,7 @@ permalink: /bookshelf
 
 * **Technical**
   * [System Design Interview - An Insider's Guide](https://www.google.co.in/books/edition/System_Design_Interview_An_Insider_s_Gui/b_mUzQEACAAJ) - Alex Xu
-  * [AI and Machine Learning for Coders](https://learning.oreilly.com/library/view/ai-and-machine/9781492078180/) - Laurence Moroney
+  * [The Hundred-Page Machine Learning Book](https://themlbook.com/) - Andriy Burkov
 
 * **Memoir**
   * [Einstein: His Life and Universe](https://www.goodreads.com/book/show/10884.Einstein) - Walter Isaacson
@@ -18,11 +18,21 @@ permalink: /bookshelf
 * **Leadership**
   * [Staff Engineer: Leadership Beyond the Management Track](https://staffeng.com/book/) - Will Larson
 
+* **Fiction**
+  * [Lord of the Flies](https://www.goodreads.com/book/show/7624.Lord_of_the_Flies) - William Golding
+
+* **Personal development**
+  * [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://jamesclear.com/atomic-habits) - James Clear (re-reading)
+
+#### Paused
+
+* **Technical**
+  * [AI and Machine Learning for Coders](https://learning.oreilly.com/library/view/ai-and-machine/9781492078180/) - Laurence Moroney
+
 * **Science**
   * [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) - Brian Christian, Tom Griffiths
 
 * **Personal development**
-  * [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://jamesclear.com/atomic-habits) - James Clear (re-reading)
   * [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.goodreads.com/book/show/3063393-pragmatic-thinking-and-learning) - Andy Hunt
 
 #### Abandoned
