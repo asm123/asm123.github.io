@@ -1,11 +1,20 @@
 ---
 layout: default
-title: All Posts
+title: All Notes
 permalink: /all
 ---
 
-<h1 style="text-align:center;">All Posts ({{ site.posts.size }})</h1>
 
+{% assign counter = 0 %}
+{% for post in site.posts %}
+    {% if post.tags contains "micro"%}
+        {% continue %}
+    {% else %}
+        {% assign counter = counter | plus: 1 %}
+    {% endif %}
+{% endfor %}
+
+<h1 style="text-align:center;">All Notes ({{ counter }})</h1>
 
     {% for post in site.posts %}
         {% if post.tags contains "micro"%}
