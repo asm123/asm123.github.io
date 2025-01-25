@@ -20,7 +20,7 @@ layout: default
 
 <ul class="tag-list" style="text-align:center;">
     {% for tag in all_tags %}
-    {% if tag == "micro"%}
+    {% if tag == "micro" or tag == "link" %}
     {% continue %}
     {% endif %}
     <a href="/tags/{{ tag }}" rel="category tag">
@@ -41,7 +41,7 @@ layout: default
 {% assign latest_post_count = 10 %}
 {% assign posts = site.posts | sort: 'last_updated' | reverse %}
     {% for post in posts %}
-        {% if post.tags contains "micro"%}
+        {% if post.tags contains "micro" or post.tags contains "link" %}
             {% continue %}
         {% endif %}
 
