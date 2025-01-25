@@ -22,6 +22,8 @@ A few times, I post [dev snippets](/tags/programming) commonly required in my da
 
 And finally, [Micro](/micro) is my chaotic and yet calming corner to post random flashes of thoughts or anything that gets me excited briefly.
 
+As of January 2025, micros citing links across the web under are moved under [Linkblog](/linkblog), taking inspiration from <a href="https://simonwillison.net/search/?type=blogmark" target="_blank">Simon Willison's Blogmarks</a>. 
+
 ## Website
 
 I love writing in Markdown. This site is a simple static website created using Github pages and Jekyll, which supports writing in Markdown. I wrote a [small tutorial](/2023/10/14/website-creation.html) for how-to. There is a [wishlist / todo list](/2023/12/24/site-todos.html) for the website and I try to make some progress on those once in a while.
