@@ -7,7 +7,7 @@ permalink: /all
 
 {% assign counter = 0 %}
 {% for post in site.posts %}
-    {% if post.tags contains "micro"%}
+    {% if post.tags contains "micro" or post.tags contains "link" %}
         {% continue %}
     {% else %}
         {% assign counter = counter | plus: 1 %}
@@ -17,9 +17,12 @@ permalink: /all
 <h1 style="text-align:center;">All Notes ({{ counter }})</h1>
 
     {% for post in site.posts %}
-        {% if post.tags contains "micro"%}
+        {% if post.tags contains "micro" or post.tags contains "link" %}
             {% continue %}
         {% endif %}
+        <!-- {% if post.tags contains "link"%}
+            {% continue %}
+        {% endif %} -->
         <p>
             {% if post.status == "final" %} 
                 🌳  

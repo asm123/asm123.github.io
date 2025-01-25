@@ -31,7 +31,7 @@ layout: default
         
             {% for post in site.posts %}
                 {% if post.tags contains page.tag-name %}
-                    {% if post.tags contains "micro" %}
+                    {% if post.tags contains "micro" or post.tags contains "link" %}
                         {% continue %}
                     {% endif %}
 
