@@ -1,10 +1,12 @@
 ---
 layout: post
 date: 2024-12-16
-tags: micro
+tags: link
+link: "https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html"
+title: What Did Ada Lovelace's Program Actually Do?
 ---
 
-Came across this beautiful article explaining Ada Lovelace's program today: [What Did Ada Lovelace's Program Actually Do?](https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html)
+Came across this beautiful article explaining Ada Lovelace's program today.
 
 Source: [Hacker News](https://news.ycombinator.com/item?id=42432867) of course!
 

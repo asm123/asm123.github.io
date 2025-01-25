@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<div>
+    <h2>
+        <code class="highligher-rouge" style="font-weight: bold;"><nobr>#links</nobr></code>&nbsp;
+    </h2>
+
+    {% for post in site.posts %}
+    {% if post.tags contains "link" %}
+    <table>
+        <tr>
+            <td>
+                <h3><span>🔗</span>&nbsp;&nbsp;<a href={{post.link}}>{{post.title}}</a></h3>
+                <p>{{ post.content }}</p>
+                <small style="color: grey;"> {{ post.date | date_to_string }}</small>
+            </td>
+        </tr>
+    </table>
+    {% endif %}
+    {% endfor %}
+</div>
