@@ -3,9 +3,11 @@ layout: post
 date: 2025-01-24
 title: Writings to follow - Tech
 tags: ai-ml programming
-last_updated: 2025-01-24
+last_updated: 2025-01-29
 status: init
 ---
+
+This is a collection of personal websites of software engineers, researchers, technologists whose writings I like to follow.
 
 * **AI/ML**:
   * [Simon Willison's Weblog](https://simonwillison.net/)
@@ -13,5 +15,5 @@ status: init
 * **Software engineering**:
   * [Martin Fowler](https://martinfowler.com/bliki/)
   * [Julia Evans](https://jvns.ca/)
-* **Random**:
+* **General**:
   * [Rachel Kroll](https://rachelbythebay.com/)
