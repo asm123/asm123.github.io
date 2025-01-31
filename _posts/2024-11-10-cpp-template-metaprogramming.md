@@ -5,7 +5,7 @@ title: C++ Template Metaprogramming
 tags: programming
 last_updated: 2024-12-05
 status: edit
-type: micro
+type: note
 ---
 
 Recently, I heard the term "template metaprogramming" from someone at work. I had no clue about what it was. So I started reading about it. These are the notes from some very light reading.
