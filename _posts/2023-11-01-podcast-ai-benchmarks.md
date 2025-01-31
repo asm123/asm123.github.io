@@ -5,6 +5,7 @@ title: "Podcast notes - AI Fundamentals: Benchmarks 101"
 tags: podcast ai-ml
 last_updated: 2023-11-04
 status: final
+type: note
 ---
 
 *These are notes from the podcast with some added external references. The podcast is wonderful, highly recommend listening to it in full for a high-level idea of benchmarking, interesting backstories and observations.*

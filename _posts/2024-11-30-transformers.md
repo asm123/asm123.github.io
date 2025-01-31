@@ -5,6 +5,7 @@ title: Basics of Transformers
 tags: ai-ml
 last_updated: 2024-11-30
 status: init
+type: edit
 ---
 
 References:

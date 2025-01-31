@@ -3,6 +3,8 @@ layout: post
 title: Resources for creating and updating this website
 date: 2023-10-19
 tags: programming
+status: init
+type: note
 ---
 
 * [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)

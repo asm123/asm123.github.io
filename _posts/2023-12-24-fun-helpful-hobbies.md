@@ -5,6 +5,7 @@ title: Fun hobbies with meaningful impact on community!
 tags: misc
 last_updated: 2023-12-24
 status: init
+type: note
 ---
 
 ## Local Guides on Google Maps

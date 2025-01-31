@@ -1,9 +1,9 @@
 ---
 layout: post
 date: 2024-11-10
-tags: link
 title: I Took a 'Decision Holiday' and Put A.I. in Charge of My Life
 link: "https://www.nytimes.com/interactive/2024/11/01/technology/generative-ai-decisions-experiment.html?unlocked_article_code=1.W04.5jXN.Hi3GKDum5MTG&smid=url-share"
+type: link
 ---
 
 An interesting read about Kashmir Hill's one week experiment with letting generative AI make decisions for her. Found it after listening to the [latest Hard Fork episode](https://www.youtube.com/watch?v=c7BYM3Z4Aik&list=PLB9gMmtMLXxsa8C0PzHFL2tJFh7FrKrYD&index=1). 

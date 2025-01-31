@@ -4,7 +4,8 @@ title: Some personal websites for inspiration
 date: 2023-10-28
 tags: misc
 last_updated: 2025-01-29
-status: init
+status: edit
+type: note
 ---
 
 Collecting digital gardens, personal websites and blogs has become my hobby in recent years. Apparently such a list is called [blogroll](https://www.google.com/search?q=blogroll+meaning). I visit the websites in this list occasionally to get inspiration for design and content structure. I have not necessarily subscribed to their content.

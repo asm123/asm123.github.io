@@ -5,6 +5,7 @@ title: Check if argument exists in a shell script
 tags: programming
 last_updated: 2025-01-24
 status: init
+type: note
 ---
 
 ```bash

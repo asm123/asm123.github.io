@@ -5,6 +5,7 @@ title: Book notes - "The Hundred-Page Machine Learning Book"
 tags: ai-ml
 last_updated: 2025-01-31
 status: init
+type: note
 ---
 
 Notes taken while reading [The Hundred-Page Machine Learning Book](https://themlbook.com/) by Andriy Burkov. Some notes are directly from the content of the book, some are for related concepts from across the web, some are my own interpretation.

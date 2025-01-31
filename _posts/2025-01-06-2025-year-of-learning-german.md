@@ -4,7 +4,8 @@ date: 2025-01-06
 title: 2025 - Year of Learning German!
 tags: german
 last_updated: 2025-01-06
-status: init
+status: final
+type: note
 ---
 
 I moved to Switzerland a few months ago as a dependent to my partner and one of the requirements to renew my dependent visa is to get a minimum of A1 spoken proficiency in German. So I appeared for the exam and got A2 in Fide last month! 

@@ -1,9 +1,9 @@
 ---
 layout: post
 date: 2024-12-16
-tags: link
 link: "https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html"
 title: What Did Ada Lovelace's Program Actually Do?
+type: link
 ---
 
 Came across this beautiful article explaining Ada Lovelace's program today.

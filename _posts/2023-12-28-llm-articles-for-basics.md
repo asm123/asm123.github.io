@@ -5,6 +5,7 @@ title: LLM basics - reading list of articles
 tags: ai-ml
 last_updated: 2023-12-28
 status: init
+type: note
 ---
 
 * [Introduction to Large Language Models](https://developers.google.com/machine-learning/resources/intro-llms)

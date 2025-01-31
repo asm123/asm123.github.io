@@ -4,7 +4,8 @@ date: 2024-12-14
 title: Interesting YouTube channels
 tags: misc
 last_updated: 2025-01-23
-status: init
+status: edit
+type: note
 ---
 
 * STEM

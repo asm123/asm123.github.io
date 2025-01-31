@@ -6,6 +6,7 @@ title: "Book notes - \"My Life in Full: Work, Family, and Our Future\""
 tags: books leadership
 last_updated: 2024-04-27
 status: final
+type: note
 ---
 
 Book: [My Life in Full: Work, Family, and Our Future](https://www.goodreads.com/book/show/57499853-my-life-in-full) - Indra Nooyi

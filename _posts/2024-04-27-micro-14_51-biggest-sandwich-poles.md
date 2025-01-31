@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-04-27
-tags: micro
+type: micro
 ---
 Weirdly interesting:
 

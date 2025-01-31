@@ -4,7 +4,8 @@ date: 2025-01-24
 title: Writings to follow - Tech
 tags: ai-ml programming
 last_updated: 2025-01-29
-status: init
+status: edit
+type: note
 ---
 
 This is a collection of personal websites of software engineers, researchers, technologists whose writings I like to follow.

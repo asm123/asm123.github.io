@@ -5,6 +5,7 @@ title: Wo Wohin Woher
 tags: german
 last_updated: 2025-01-08
 status: init
+type: note
 ---
 
 Wo = stationary = where

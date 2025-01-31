@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-11-10
-tags: micro
+type: micro
 ---
 
 Helpful perspective indeed!

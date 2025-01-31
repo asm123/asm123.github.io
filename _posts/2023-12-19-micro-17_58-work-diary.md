@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-12-19
-tags: micro
+type: micro
 ---
 
 #Repost Ryan Peterman on keeping a work diary. I have been following this for last couple of years now and has been helpful as a retrospective.

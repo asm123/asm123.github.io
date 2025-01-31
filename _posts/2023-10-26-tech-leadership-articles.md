@@ -4,7 +4,8 @@ title: Articles on Tech Leadership
 date: 2023-10-26
 tags: leadership
 last_updated: 2024-08-02
-status: init
+status: edit
+type: note
 ---
 
 ## Visibility

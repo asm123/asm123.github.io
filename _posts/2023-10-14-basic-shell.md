@@ -3,6 +3,8 @@ layout: post
 title: Basic shell info
 date: 2023-10-14
 tags: programming
+status: init
+type: note
 ---
 
 

@@ -4,7 +4,8 @@ title: Favorite quotes from fiction
 date: 2023-10-18
 tags: books
 last_updated: 2025-01-25
-status: init
+status: edit
+type: note
 ---
 
 ### [A Dance with Dragons](https://www.goodreads.com/book/show/10664113-a-dance-with-dragons) - George R.R. Martin

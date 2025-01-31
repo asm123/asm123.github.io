@@ -1,5 +1,5 @@
 ---
 layout: link-feed
 title: Linkblog
-permalink: /linkblog
+permalink: /links
 ---

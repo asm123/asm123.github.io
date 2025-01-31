@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-06-01
-tags: micro
+type: micro
 ---
 
 `#FinishedABook`

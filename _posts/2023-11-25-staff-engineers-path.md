@@ -5,7 +5,8 @@ title: Book notes - The Staff Engineer's Path
 permalink: /staff-engineers-path
 tags: books leadership
 last_updated: 2024-11-19
-status: init
+status: edit
+type: note
 ---
 
 

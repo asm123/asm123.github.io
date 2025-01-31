@@ -4,6 +4,7 @@ title: Podcast notes - From Awkward to Agonizing - Mastering Difficult Conversat
 date: 2023-10-19
 tags: podcast leadership
 status: final
+type: note
 ---
 
 *Speaker: Sarah Clatterbuck, Sr. Director of Engineering, YouTube @ Google*

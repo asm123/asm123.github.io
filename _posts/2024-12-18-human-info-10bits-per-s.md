@@ -4,7 +4,8 @@ date: 2024-12-18
 title: "Notes - The unbearable slowness of being: Why do we live at 10 bits/s?"
 tags: neuroscience
 last_updated: 2024-12-18
-status: init
+status: final
+type: note
 ---
 
 Source: [The Unbearable Slowness of Being: Why do we live at 10 bits/s?](https://arxiv.org/abs/2408.10234v2) - arxiv, found on [Hacker News](https://news.ycombinator.com/item?id=42449602)

@@ -1,10 +1,11 @@
 ---
 layout: post
 date: 2023-12-24
-title: 
+title: Career Nuggets
 tags: leadership
 last_updated: 2024-11-30
-status: init
+status: edit
+type: note
 ---
 
 ---

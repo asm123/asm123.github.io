@@ -20,9 +20,6 @@ layout: default
 
 <ul class="tag-list" style="text-align:center;">
     {% for tag in all_tags %}
-    {% if tag == "micro" or tag == "link" %}
-    {% continue %}
-    {% endif %}
     <a href="/tags/{{ tag }}" rel="category tag">
         <code class="highligher-rouge"><nobr>{{ tag | upcase }}</nobr></code>
     </a>
@@ -41,7 +38,7 @@ layout: default
 {% assign latest_post_count = 5 %}
 {% assign posts = site.posts | sort: 'date' | reverse %}
     {% for post in posts %}
-        {% if post.tags contains "micro" or post.tags contains "link" %}
+        {% if post.type != "note" %}
             {% continue %}
         {% endif %}
 
@@ -88,7 +85,7 @@ layout: default
 {% assign latest_post_count = 5 %}
 {% assign posts = site.posts | sort: 'date' | reverse %}
     {% for post in posts %}
-        {% if post.tags contains "micro" or post.tags contains "link" %}
+        {% if post.type != "note" %}
             {% continue %}
         {% endif %}
 
@@ -120,6 +117,7 @@ layout: default
         </p>
     {% endfor %}
 
+<br>
 <div style="text-align:center">
     <a href="/all">All Notes ></a>
 </div>

@@ -1,9 +1,9 @@
 ---
 layout: post
 date: 2024-11-14
-tags: link
 title: How I ship projects at big tech companies
 link: "https://www.seangoedecke.com/how-to-ship/"
+type: link
 ---
 
 Trending on [Hacker News](https://news.ycombinator.com/item?id=42111031) yesterday was this article.

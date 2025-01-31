@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-04-28
-tags: micro
+type: micro
 ---
 
 New word learned today: prophylaxis. It means preventive.

@@ -5,6 +5,7 @@ title: Book notes - "Kohinoor - The Story of the World’s Most Infamous Diamond
 tags: books
 last_updated: 2024-01-21
 status: final
+type: note
 ---
 
 Book: [Kohinoor: The Story of the World’s Most Infamous Diamond](https://www.goodreads.com/book/show/33391999-kohinoor) - William Dalrymple, Anita Anand

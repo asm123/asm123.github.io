@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-12-19
-tags: micro
+type: micro
 ---
 
 Random micro to restore unpublished site after repo visibility changes 🙈

@@ -4,14 +4,14 @@ title:  "Creating a website with GitHub Pages"
 date: 2023-10-14
 tags: programming
 last_updated: 2024-01-28
-status: init
+status: final
+type: note
 ---
 
 A tutorial for setting up your own website using GitHub Pages.
 - [Install Homebrew](#install-homebrew)
 - [Install ruby](#install-ruby)
 - [Install Jekyll gem](#install-jekyll-gem)
-
 
 
 ## Install Jekyll
