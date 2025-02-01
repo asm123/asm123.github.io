@@ -1,4 +1,4 @@
 ---
-tag-name: german
+tag-name: language
 layout: tags
 ---

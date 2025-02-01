@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2025-01-08
-title: Wo Wohin Woher
-tags: german
+title: German - Wo Wohin Woher
+tags: language
 last_updated: 2025-01-08
 status: init
 type: note

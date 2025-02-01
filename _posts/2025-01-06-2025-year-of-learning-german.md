@@ -2,7 +2,7 @@
 layout: post
 date: 2025-01-06
 title: 2025 - Year of Learning German!
-tags: german life
+tags: language life
 last_updated: 2025-01-06
 type: essay
 ---
