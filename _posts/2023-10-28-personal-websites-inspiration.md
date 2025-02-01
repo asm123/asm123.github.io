@@ -3,7 +3,7 @@ layout: post
 title: Some personal websites for inspiration
 date: 2023-10-28
 tags: misc
-last_updated: 2025-01-29
+last_updated: 2025-02-02
 status: edit
 type: note
 ---
@@ -25,3 +25,4 @@ Collecting digital gardens, personal websites and blogs has become my hobby in r
 * [rachelbythebay](https://rachelbythebay.com/)
 * [Blogroll.org](https://blogroll.org/) has a humanly curated list of personal and independent blogs.
 * [Alex Kladov](https://matklad.github.io/)
+* [Gabriel Garrido](https://garrido.io/)
