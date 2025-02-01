@@ -24,3 +24,4 @@ Collecting digital gardens, personal websites and blogs has become my hobby in r
 * [Bhavani Ravi](https://www.bhavaniravi.com/)
 * [rachelbythebay](https://rachelbythebay.com/)
 * [Blogroll.org](https://blogroll.org/) has a humanly curated list of personal and independent blogs.
+* [Alex Kladov](https://matklad.github.io/)

@@ -5,13 +5,15 @@ layout: default
 
     <header class="post-header">
         <h1 class="post-title p-name" itemprop="name headline">
-            {% if page.status == "final" %} 
+            {% if page.type == "note" %}
+                {% if page.status == "final" %} 
                     🌳  
                 {% elsif page.status == "update" %} 
                     🌿
                 {% else %}
                     🌱
                 {% endif %}
+            {% endif %}
             {{ page.title | escape }}
         </h1>
         

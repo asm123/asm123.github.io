@@ -22,7 +22,7 @@ A few times, I post [dev snippets](/tags/programming) commonly required in my da
 
 And finally, [Micro](/micro) is my chaotic and yet calming corner to post random flashes of thoughts or anything that gets me excited briefly.
 
-As of January 2025, micros citing links across the web under are moved under [Linkblog](/linkblog), taking inspiration from <a href="https://simonwillison.net/search/?type=blogmark" target="_blank">Simon Willison's Blogmarks</a>. 
+As of January 2025, micros citing links across the web under are moved under [Linkblog](/links), taking inspiration from <a href="https://simonwillison.net/search/?type=blogmark" target="_blank">Simon Willison's Blogmarks</a>. 
 
 ## Website
 
