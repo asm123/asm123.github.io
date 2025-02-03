@@ -38,6 +38,10 @@ I love writing in Markdown. This site is a simple static website created using G
 
 🍃 - micro
 
+🪴 - opinionated, possibly long-form essays
+
+🔗 - link to something external that caught my interest
+
 ## Tracking
 
 This website is really for my own learning and as such, I do not care if anyone ever or never visits it. There are no cookies 🍪, no trackers 🐾, no visitor analytics 📉. If you are here, feel free to wander about as you please. 
