@@ -2,18 +2,8 @@
 layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-
     <header class="post-header">
         <h1 class="post-title p-name" itemprop="name headline">
-            {% if page.type == "note" %}
-                {% if page.status == "final" %} 
-                    🌳  
-                {% elsif page.status == "update" %} 
-                    🌿
-                {% else %}
-                    🌱
-                {% endif %}
-            {% endif %}
             {{ page.title | escape }}
         </h1>
         
@@ -29,21 +19,23 @@ layout: default
         <div class="post-content e-content" itemprop="articleBody">
             {{ content }}
         </div>
-
-        <p class="post-meta" style="padding-bottom: 3%">
-            <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-                🌱 <small>{{ page.date | date_to_string }}</small>
-            </time>
-            {% if page.last_updated %}
-                {% assign last_updated_str = page.last_updated | date_to_string %}
-                {% assign original_date_str = page.date | date_to_string %}
-                {% if last_updated_str != original_date_str %}
-                    <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-                        🌿 <small>{{ page.last_updated | date_to_string }}</small>
-                    </time>
-                {% endif %}
-            {% endif %}
-        </p>
+        
     </div>
     <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+<hr style="border-top: dashed 1px;">
+<p class="post-meta">
+    <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        🌱 <small>{{ page.date | date_to_string }}</small>
+    </time>
+    {% if page.last_updated %}
+        {% assign last_updated_str = page.last_updated | date_to_string %}
+        {% assign original_date_str = page.date | date_to_string %}
+        {% if last_updated_str != original_date_str %}
+            <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                🌿 <small>{{ page.last_updated | date_to_string }}</small>
+            </time>
+        {% endif %}
+    {% endif %}
+</p>
