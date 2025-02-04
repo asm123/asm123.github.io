@@ -17,6 +17,7 @@ Situation: New on a team, not fully aware of priorities, waiting for concrete wo
 3. Read up existing engineering documentation for immediate area or related areas
 4. Fix documentation on the go
 5. Add missing documentation
+6. Try to contribute to low-hanging bugs / tasks from recent launches
 
 ### As a seasoned team member
 
@@ -26,7 +27,7 @@ Situation: Seasoned team member, org priorities or projects are not finalized du
 2. Cleanup tech debt
 3. If general direction of the org is known but projects are not yet formalized, ramp up on the related areas through documentation, code
    1. Educate others on the areas with lightning talks or 1:1 discussions
-   2. Use insights from this ramp-up to support your manager in the OKR and project planning
+   2. Use insights from this ramp-up to support your manager in the OKR and project planning with eng details
 4. Use your product to check if it is still true to expectations
 5. Add observability into launched features if still relevant
 6. Offer help to team members
