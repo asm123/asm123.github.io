@@ -36,7 +36,9 @@ layout: default
                     {% endif %}
 
                     <p>
-                        {% if post.status == "final" %} 
+                        {% if post.type == "essay" %}
+                            🪴 
+                        {% elsif post.status == "final" %} 
                             🌳  
                         {% elsif post.status == "update" %} 
                             🌿
