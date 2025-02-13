@@ -2,7 +2,7 @@
 layout: post
 date: 2025-01-25
 title: Ramping up on new codebase and product area
-tags: programming
+tags: software-engineering
 last_updated: 2025-01-25
 status: init
 type: note

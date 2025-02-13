@@ -2,7 +2,7 @@
 layout: post
 date: 2025-02-05
 title: Code is the Ultimate Documentation
-tags: programming
+tags: software-engineering
 last_updated: 2025-02-05
 status: init
 type: essay

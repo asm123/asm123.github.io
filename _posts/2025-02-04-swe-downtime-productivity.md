@@ -2,7 +2,7 @@
 layout: post
 date: 2025-02-04
 title: Staying productive during downtime at work
-tags: programming
+tags: software-engineering
 last_updated: 2025-02-04
 status: init
 type: note
