@@ -6,36 +6,40 @@ layout: default
         <h1 class="post-title p-name" itemprop="name headline">
             {{ page.title | escape }}
         </h1>
-        
-        <p class="post-meta">
-            <span>
-                {% for tag in page.tags %}
-                    <a href="/tags/{{ tag }}" rel="category tag"><code class="highligher-rouge"><nobr>{{ tag | upcase }}</nobr></code>&nbsp;</a>
-                {% endfor %}
-            </span>
+
+
     </header>
+
+    <div class="section">
+        <span>
+            {% for tag in page.tags %}
+            <a href="/tags/{{ tag }}" rel="category tag" class="tag">
+                {{ tag | upcase }} &nbsp;
+            </a>
+            {% endfor %}
+        </span>
+    </div>
 
     <div id="flex">
         <div class="post-content e-content" itemprop="articleBody">
             {{ content }}
         </div>
-        
+
     </div>
     <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
 
-<hr style="border-top: dashed 1px;">
-<p class="post-meta">
+<div class="footer">
     <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         🌱 <small>{{ page.date | date_to_string }}</small>
     </time>
     {% if page.last_updated %}
-        {% assign last_updated_str = page.last_updated | date_to_string %}
-        {% assign original_date_str = page.date | date_to_string %}
-        {% if last_updated_str != original_date_str %}
-            <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-                🌿 <small>{{ page.last_updated | date_to_string }}</small>
-            </time>
-        {% endif %}
+    {% assign last_updated_str = page.last_updated | date_to_string %}
+    {% assign original_date_str = page.date | date_to_string %}
+    {% if last_updated_str != original_date_str %}
+    <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        🌿 <small>{{ page.last_updated | date_to_string }}</small>
+    </time>
     {% endif %}
-</p>
+    {% endif %}
+</div>
