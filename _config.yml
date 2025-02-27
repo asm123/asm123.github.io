@@ -33,6 +33,15 @@ collections:
 
 # Build settings
 theme: just-the-docs
+theme: "just-the-docs"
+
+sass:
+  load_paths:
+    - _sass
+
+css:
+  - "/assets/css/custom.css"
+
 plugins:
   - jekyll-feed
 
