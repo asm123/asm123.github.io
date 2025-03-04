@@ -27,7 +27,8 @@ layout: default
     {% endfor %}
     {% else %}
 
-    {% for post in site.posts %}
+    {% assign posts = site.posts | sort: 'last_updated' | reverse %}
+    {% for post in posts %}
     {% if post.tags contains page.tag-name %}
     {% if post.tags contains "micro" or post.tags contains "link" %}
     {% continue %}
@@ -44,15 +45,17 @@ layout: default
         🌱
         {% endif %}
         <a href="{{ post.url }}">{{ post.title }}</a>
-        🌱
         <small style="color: grey;">
-            {{ post.date | date_to_string }}
             {% if post.last_updated %}
-            {% assign last_updated_str = post.last_updated | date_to_string %}
-            {% assign original_date_str = post.date | date_to_string %}
-            {% if last_updated_str != original_date_str %}
-            🌿 {{ last_updated_str }}
-            {% endif %}
+                {% assign last_updated_str = post.last_updated | date_to_string %}
+                {% assign original_date_str = post.date | date_to_string %}
+                {% if last_updated_str != original_date_str %}
+                    {{ last_updated_str }}
+                {% else %}
+                    {{ post.date | date_to_string }}
+                {% endif %}
+            {% else %}
+                {{ post.date | date_to_string }}
             {% endif %}
         </small>
     </p>
