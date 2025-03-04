@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bookshelf
-permalink: /bookshelf
+title: Library
+permalink: /library
 ---
 
 ### 2025

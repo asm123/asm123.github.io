@@ -16,7 +16,7 @@ This wonderful [github repo of digital gardens](https://github.com/lyz-code/best
 
 ## What goes here?
 
-I post notes on material consumed from different sources, e.g., [notes](/tags/books) from the [books I am currently reading](/bookshelf), or [interesting podcasts](/tags/podcast), with due credit to the creators of the original material. These posts are here mainly for the ease of [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) and possibly discovering connections between different ideas.
+I post notes on material consumed from different sources, e.g., [notes](/tags/books) from the [books I am currently reading](/library), or [interesting podcasts](/tags/podcast), with due credit to the creators of the original material. These posts are here mainly for the ease of [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) and possibly discovering connections between different ideas.
 
 A few times, I post [dev snippets](/tags/programming) commonly required in my day-to-day work, basic yet easy to forget. For example, I keep forgetting how to get current time in bash in a certain format. So I added a note here so that next time I need it, I can just look it up in my own note before searching elsewhere!
 

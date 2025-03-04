@@ -45,11 +45,13 @@ I visit websites in this list occasionally to get inspiration for design and con
 * [Luke Davis](https://lukealexdavis.co.uk/) - well-structured and organized.
 * [Bhavani Ravi](https://www.bhavaniravi.com/) - gitbook-based.
 * [Alex Kladov](https://matklad.github.io/) - love the fonts in the content body.
+* [James' Coffee Blog](https://jamesg.blog/)
 
 ### External blogrolls
 * [Blogroll.org](https://blogroll.org/) - a humanly curated list of personal and independent blogs.
 * Find a random post from a personal blog from [indieblog.page](https://indieblog.page/)
 * A huge list of personal websites on [this](https://news.ycombinator.com/item?id=34279215) Hacker News thread!
+* [The Big List of Personal Websites](http://biglist.terraaeon.com/)
 
 ### Tech news
 

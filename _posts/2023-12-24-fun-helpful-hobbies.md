@@ -69,7 +69,7 @@ Digitize more of your local region, language, culture and make Internet accessib
 ## Share book notes in blogs
 Benefits of reading books have been discussed in great lengths, perhaps the most for any hobby. I am not going to go into that. 
 
-Reading is great. But I often forget about the content or learnings from a book after a few years. So recently, I have started making [notes](/tags/book-notes) for the books I am [currently reading](/bookshelf), at least the non-fiction ones and sharing those here in my digital garden. I also hope to someday create a podcast or YT channel for sharing these notes as book summaries.
+Reading is great. But I often forget about the content or learnings from a book after a few years. So recently, I have started making [notes](/tags/book-notes) for the books I am [currently reading](/library), at least the non-fiction ones and sharing those here in my digital garden. I also hope to someday create a podcast or YT channel for sharing these notes as book summaries.
 
 #### Effort level
 Varies. If you prefer eBooks, then most of the reading apps provide a way to highlight sections of the book which can double as your book notes. Depending on where and how you want to share these, efforts can vary. Here are a few examples:
