@@ -5,7 +5,7 @@ date: 2023-10-14
 tags: programming
 last_updated: 2024-01-28
 status: final
-type: note
+type: article
 ---
 
 A tutorial for setting up your own website using GitHub Pages.

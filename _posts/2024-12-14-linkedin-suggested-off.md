@@ -5,7 +5,7 @@ title: Turn off Suggested posts in LinkedIn feed
 tags: misc
 last_updated: 2025-01-23
 status: final
-type: note
+type: article
 ---
 
 ### TL;DR
