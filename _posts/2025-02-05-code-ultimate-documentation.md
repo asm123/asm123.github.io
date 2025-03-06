@@ -5,7 +5,7 @@ title: Code is the Ultimate Documentation
 tags: software-engineering
 last_updated: 2025-02-05
 status: init
-type: essay
+type: article
 ---
 
 In an ideal software engineering world, everything is well-documented and up-to-date. But the world is not ideal. 

@@ -38,7 +38,7 @@ I love writing in Markdown. This site is a simple static website created using G
 
 🍃 - micro
 
-🪴 - opinionated, possibly long-form essays
+🪴 - opinionated, possibly long-form articles
 
 🔗 - link to something external that caught my interest
 

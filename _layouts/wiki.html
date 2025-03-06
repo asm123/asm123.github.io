@@ -10,7 +10,7 @@ layout: default
     <br>
     You have landed on my little corner on the World Wide Web. Welcome!
     <br>
-    This website serves as a repository of my notes on various topics and a few opinionated essays.
+    This website serves as a repository of my notes on various topics and a few opinionated articles.
 </div>
 <hr>
 
@@ -126,14 +126,14 @@ layout: default
 {% endfor %}
 
 <div>
-    <h2>🪴 Recent essays</h2>
+    <h2>🪴 Recent articles</h2>
 </div>
 
 {% assign counter = 0 %}
 {% assign latest_post_count = 5 %}
 {% assign posts = site.posts | sort: 'date' | reverse %}
 {% for post in posts %}
-{% if post.type != "essay" %}
+{% if post.type != "article" %}
 {% continue %}
 {% endif %}
 

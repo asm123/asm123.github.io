@@ -4,7 +4,7 @@ date: 2025-02-01
 title: Three Months in Switzerland
 tags: life
 last_updated: 2025-02-01
-type: essay
+type: article
 ---
 
 It's been over 3 months now since I properly moved to Switzerland for work. Now is as good a time as any to jot down my initial observations and reflections.

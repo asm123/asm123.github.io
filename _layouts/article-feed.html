@@ -4,7 +4,7 @@ layout: default
 
 {% assign counter = 0 %}
 {% for post in site.posts %}
-{% if post.type != "essay" %}
+{% if post.type != "article" %}
 {% continue %}
 {% else %}
 {% assign counter = counter | plus: 1 %}
@@ -13,13 +13,13 @@ layout: default
 
 
 <div class="section">
-    <h1>Essays ({{ counter }})</h1>
+    <h1>Articles ({{ counter }})</h1>
     <p>Opinionated, mostly long-form posts.</p>
 </div>
 
 <p>
     {% for post in site.posts %}
-    {% if post.type != "essay" %}
+    {% if post.type != "article" %}
     {% continue %}
     {% endif %}
 <p>
